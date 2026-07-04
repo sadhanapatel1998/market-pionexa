@@ -10,10 +10,12 @@
     <meta name="description" content="HTML Template">
     <meta name="keywords" content="Html Template">
     <!-- page title -->
-    <title>Index Three | Pexora - Ai Agency & Saas Technology HTML Template</title>
+    <title>Market Pionexa Consulting Pvt. Ltd. | Transforming Vision Into Global Execution</title>
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/images/favicon/site.webmanifest">
     <!-- font awesome css -->
     <link rel="stylesheet" href="assets/css/all.min.css">
     <!-- bootstrap css -->

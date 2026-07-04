@@ -4,27 +4,24 @@ ob_start();
 
 <!-- main start -->
 <main class="main">
-    <!-- hero section start -->
     <section class="hero-section-3">
-        <!-- bakground assets start -->
         <div class="bakground-assets">
             <img class="line-top" src="assets/images/hero/bg-line-two.png" alt="hero line">
             <img class="shape-one" src="assets/images/hero/light-shape-1.png" alt="hero light shape one">
             <img class="shape-two" src="assets/images/hero/light-shape-2.png" alt="hero light shape two">
         </div>
-        <!-- bakground assets end -->
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <!-- hero wapper start -->
                     <div class="hero-wapper">
-                        <!-- hero content start -->
                         <div class="hero-content">
                             <div class="section-title align-items-center">
-                                <span class="sub-title">Ai Automation for Scalable Businesses</span>
-                                <h1>Create Stunning
-                                    <span>AI Images</span>
-                                    with Just a <span class="prompt">
+                                <span class="sub-title">Market Pionexa Consulting Pvt. Ltd.</span>
+
+                                <h1>
+                                    Transforming<span> Vision</span>
+                                    Into Global
+                                    <span class="prompt">
                                         <svg class="circle1" width="8" height="8" viewBox="0 0 8 8" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <circle cx="4" cy="4" r="4" fill="currentColor"></circle>
@@ -33,7 +30,9 @@ ob_start();
                                             xmlns="http://www.w3.org/2000/svg">
                                             <circle cx="4" cy="4" r="4" fill="currentColor"></circle>
                                         </svg>
-                                        Prompt
+
+                                        Execution
+
                                         <svg class="circle3" width="8" height="8" viewBox="0 0 8 8" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <circle cx="4" cy="4" r="4" fill="currentColor"></circle>
@@ -43,116 +42,88 @@ ob_start();
                                             <circle cx="4" cy="4" r="4" fill="currentColor"></circle>
                                         </svg>
                                     </span>
-                                    <img src="assets/images/hero/tag-image.png" alt="tag image">
                                 </h1>
-                                <p class="desc">The best AI image generator for creators. Our AI art generator
-                                    and AI photo generator transforms your text to image instantly. Create
-                                    photorealistic photos, digital art, anime, and more simply describe what you
-                                    want.</p>
+
+                                <p class="desc">
+                                    We partner with healthcare, technology, and growth-focused organizations to bridge
+                                    the gap
+                                    between strategy and execution through operational excellence, customer success, and
+                                    scalable
+                                    business solutions.
+                                </p>
                             </div>
                         </div>
-                        <!-- hero content end -->
                     </div>
-                    <!-- hero wapper end -->
                 </div>
             </div>
         </div>
     </section>
-    <!-- hero section end -->
 
     <!-- image section start -->
     <div class="image-section">
-        <!-- bakground assets start -->
         <div class="bakground-assets">
             <img class="shape-one" src="assets/images/image/shape-top.png" alt="shape top">
             <img class="shape-two" src="assets/images/image/shape-bottom.png" alt="shape bottom">
         </div>
-        <!-- bakground assets end -->
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- image wapper start -->
                     <div class="image-wapper">
-                        <!-- image box start -->
                         <div class="image-box">
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-1.jpg" alt="image one">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-2.jpg" alt="image two">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-3.jpg" alt="image three">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-4.jpg" alt="image four">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-5.jpg" alt="image five">
                                 </figure>
                             </div>
-                            <!-- image item start -->
                         </div>
-                        <!-- image box end -->
-                        <!-- image box start -->
                         <div class="image-box">
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-1.jpg" alt="image one">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-2.jpg" alt="image two">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
+                            <div class="image-item">
+                                <figure>
+                                    <img src="assets/images/image/image-5.jpg" alt="image four">
+                                </figure>
+                            </div>
+                            <div class="image-item">
+                                <figure>
+                                    <img src="assets/images/image/image-4.jpg" alt="image five">
+                                </figure>
+                            </div>
                             <div class="image-item">
                                 <figure>
                                     <img src="assets/images/image/image-3.jpg" alt="image three">
                                 </figure>
                             </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
-                            <div class="image-item">
-                                <figure>
-                                    <img src="assets/images/image/image-4.jpg" alt="image four">
-                                </figure>
-                            </div>
-                            <!-- image item end -->
-                            <!-- image item start -->
-                            <div class="image-item">
-                                <figure>
-                                    <img src="assets/images/image/image-5.jpg" alt="image five">
-                                </figure>
-                            </div>
-                            <!-- image item end -->
                         </div>
-                        <!-- image box end -->
                     </div>
-                    <!-- image wapper end -->
                 </div>
             </div>
         </div>
@@ -160,415 +131,264 @@ ob_start();
     <!-- image section end -->
 
     <!-- micon section start -->
-    <section class="micon-section pt-100 md-pt-80">
+    <section class="micon-section pt-60 md-pt-60 mb-100">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- micon wapper start -->
+                    <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
+                        <span class="sub-title">Industries We Serve</span>
+                        <h2>Industries <span>We Serve</span></h2>
+                    </div>
+                </div>
+                <div class="col-lg-12">
                     <div class="micon-wapper">
-                        <!-- micon items start -->
                         <div class="micon-items right-after wow fadeInUp" data-wow-delay=".3s">
                             <div class="micon-content">
-                                <h2>Premium <br> Materials</h2>
-                                <p>Lorem ipsum dolor sit amet, compor incididunt ut labo enim ut labo enim ad mini.</p>
+                                <h2>Healthcare & Health-Tech</h2>
+                                <p> Supporting healthcare organizations and digital health companies through operational
+                                    excellence, customer success, benefits administration support, process optimization,
+                                    and growth initiatives.</p>
                             </div>
                         </div>
-                        <!-- micon items end -->
-                        <!-- micon items start -->
                         <div class="micon-items right-after wow fadeInUp" data-wow-delay=".4s">
                             <div class="micon-content">
-                                <h2>Advanced <br> Forgiveness</h2>
-                                <p>Lorem ipsum dolor sit amet, compor incididunt ut labo enim ut labo enim ad mini.</p>
+                                <h2>Technology & SaaS </h2>
+                                <p>Helping technology and SaaS businesses scale through customer success operations,
+                                    process improvement, operational support, and business execution services.Lorem
+                                    ipsum dolor sit amet, compor incididunt ut labo enim ut labo enim ad mini.</p>
                             </div>
                         </div>
-                        <!-- micon items end -->
-                        <!-- micon items start -->
                         <div class="micon-items right-after wow fadeInUp" data-wow-delay=".5s">
                             <div class="micon-content">
-                                <h2>Customizable <br> Options</h2>
-                                <p>Lorem ipsum dolor sit amet, compor incididunt ut labo enim ut labo enim ad mini.</p>
+                                <h2>Growth & Market Expansion</h2>
+                                <p>Supporting organizations with market research, market-entry planning, operational
+                                    setup, business expansion, and execution support.</p>
                             </div>
                         </div>
-                        <!-- micon items end -->
                     </div>
-                    <!-- micon wapper end -->
                 </div>
             </div>
         </div>
     </section>
     <!-- micon section end -->
 
-    <!-- image generator section start -->
-    <section class="image-generator-section pt-100 md-pt-80 pb-100 md-pb-80">
+    <!-- services section start -->
+    <section class="services-section pb-100 md-pb-80">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- section title start -->
                     <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
-                        <span class="sub-title">Image Generator</span>
-                        <h2>What is an <span>AI Image</span> Generator?</h2>
-                    </div>
-                    <!-- section title end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="image-generator-wapper">
-                        <!-- image-generator items start -->
-                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
-                            <div class="image-generator-icon">
-                                <figure>
-                                    <img src="assets/images/image-generator/icon-1.png" alt="generator one">
-                                </figure>
-                            </div>
-                            <div class="image-generator-content">
-                                <h2>Intelligent graphic generator</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                    suffered alteration in some form, by injected humour, or randomised words which
-                                    don't look even slightly believable.</p>
-                            </div>
-                        </div>
-                        <!-- image-generator items end -->
-                        <!-- image-generator items start -->
-                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".4s">
-                            <div class="image-generator-icon">
-                                <figure>
-                                    <img src="assets/images/image-generator/icon-2.png" alt="generator two">
-                                </figure>
-                            </div>
-                            <div class="image-generator-content">
-                                <h2>From prompt to <br> image</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                    suffered alteration in some form, by injected humour, or randomised words which
-                                    don't look even slightly believable.</p>
-                            </div>
-                        </div>
-                        <!-- image-generator items end -->
-                        <!-- image-generator items start -->
-                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".5s">
-                            <div class="image-generator-icon">
-                                <figure>
-                                    <img src="assets/images/image-generator/icon-3.png" alt="generator three">
-                                </figure>
-                            </div>
-                            <div class="image-generator-content">
-                                <h2>Made for creators and designers</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                    suffered alteration in some form, by injected humour, or randomised words which
-                                    don't look even slightly believable.</p>
-                            </div>
-                        </div>
-                        <!-- image-generator items end -->
+                        <span class="sub-title">Our Services</span>
+                        <h2>Execution-Focused <span>Business Solutions</span></h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <!-- image generator footer start -->
-                    <div class="image-generator-footer mt-30 wow fadeInUp" data-wow-delay=".6s">
-                        <div class="image-generator-button text-center">
-                            <a href="contact.html" class="theme-button style-1" aria-label="Start For Free">
-                                <span data-text="Start For Free">Start For Free</span>
-                                <i class="fa-solid fa-arrow-right"></i>
-                            </a>
+                <div class="col-lg-4">
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay=".3s">
+                        <div class="services-content">
+                            <h2><a href="operations-excellence.php">Operations<br> Excellence</a></h2>
+                            <div class="check-list">
+                                <p>Improve operational performance through efficient processes, structured workflows,
+                                    and execution-focused business support.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/1.png" alt="services one">
+                            </figure>
                         </div>
                     </div>
-                    <!-- image generator footer end -->
+                </div>
+                <div class="col-lg-4">
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay=".4s">
+                        <div class="services-content">
+                            <h2><a href="customer-success.php">Customer Success & Support</a></h2>
+                            <div class="check-list">
+                                <p>Deliver exceptional customer experiences with scalable support operations that
+                                    improve satisfaction and long-term retention.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/2.png" alt="services two">
+                            </figure>
+                        </div>
+                    </div>
+                    <!-- services item end -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- services item start -->
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay=".5s">
+                        <div class="services-content">
+                            <h2><a href="business-growth.php">Business Growth & Expansion</a></h2>
+                            <div class="check-list">
+                                <p>Support sustainable growth through scalable business strategies, expansion planning,
+                                    and execution-driven operational support.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/3.png" alt="services three">
+                            </figure>
+                        </div>
+                    </div>
+                    <!-- services item end -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- services item start -->
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay=".8s">
+                        <div class="services-content">
+                            <h2><a href="market-research.php">Market Research</a></h2>
+                            <div class="check-list">
+                                <p>Gain valuable market insights through research, competitive analysis, and data-driven
+                                    recommendations for informed decisions.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/4.png" alt="services six">
+                            </figure>
+                        </div>
+                    </div>
+                    <!-- services item end -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- services item start -->
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay=".9s">
+                        <div class="services-content">
+                            <h2><a href="process-optimization.php">Process Optimization</a></h2>
+                            <div class="check-list">
+                                <p>Streamline workflows and optimize business processes to improve efficiency,
+                                    productivity, and operational performance.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/5.png" alt="services siven">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay="1.1s">
+                        <div class="services-content">
+                            <h2><a href="operational-strategy.php">Operational Strategy</a></h2>
+                            <div class="check-list">
+                                <p>Turn strategic plans into measurable actions with practical execution frameworks and
+                                    operational excellence.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/6.png" alt="services eight">
+                            </figure>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- image generator section end -->
+    <!-- services section end -->
 
     <!-- why section start -->
     <section class="why-section mlr">
-        <!-- why wapper start -->
         <div class="why-wapper pt-100 md-pt-80 pb-100 md-pb-80">
-            <div class="bakground-assets">
-                <img class="shape-four" src="assets/images/hero/hero-2-shape-4.png" alt="hero shape four">
-            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <!-- section title start -->
+
+                        <!-- Section Title -->
                         <div class="section-title wow fadeInUp" data-wow-delay=".2s">
-                            <span class="sub-title">Why Used</span>
-                            <h2>Why should you use this <span>free AI image</span> generator?</h2>
+                            <span class="sub-title">Why Market Pionexa</span>
+                            <h2>Why Leading Organizations <span>Choose Us</span></h2>
                         </div>
-                        <!-- section title end -->
+
                     </div>
+
                     <div class="col-lg-8">
                         <div class="why-box">
-                            <!-- why items start -->
+
+                            <!-- Item 1 -->
                             <div class="why-items right-after wow fadeInUp" data-wow-delay=".3s">
                                 <div class="why-icon">
-                                    <figure>
-                                        <img src="assets/images/why/icon-1.png" alt="why one">
-                                    </figure>
+                                    <i class="fa-solid fa-bullseye"></i>
                                 </div>
                                 <div class="why-content">
-                                    <h2>Free to use</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour, or randomised words
-                                        which don't look even slightly believable.</p>
+                                    <h2>Strategy + Execution</h2>
+                                    <p>We turn strategic plans into measurable actions through disciplined execution and
+                                        operational excellence.</p>
                                 </div>
                             </div>
-                            <!-- why items end -->
-                            <!-- why items start -->
+
+                            <!-- Item 2 -->
                             <div class="why-items right-after wow fadeInUp" data-wow-delay=".4s">
                                 <div class="why-icon">
-                                    <figure>
-                                        <img src="assets/images/why/icon-2.png" alt="why two">
-                                    </figure>
+                                    <i class="fa-solid fa-briefcase"></i>
                                 </div>
                                 <div class="why-content">
-                                    <h2>Multi-model engine</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour, or randomised words
-                                        which don't look even slightly believable.</p>
+                                    <h2>Industry Expertise</h2>
+                                    <p>Deep experience across healthcare, technology, and growth-focused businesses
+                                        enables practical solutions.</p>
                                 </div>
                             </div>
-                            <!-- why items end -->
-                            <!-- why items start -->
+
+                            <!-- Item 3 -->
                             <div class="why-items right-after wow fadeInUp" data-wow-delay=".5s">
                                 <div class="why-icon">
-                                    <figure>
-                                        <img src="assets/images/why/icon-3.png" alt="why three">
-                                    </figure>
+                                    <i class="fa-solid fa-earth-americas"></i>
                                 </div>
                                 <div class="why-content">
-                                    <h2>Built-In prompt</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour, or randomised words
-                                        which don't look even slightly believable.</p>
+                                    <h2>Global Mindset</h2>
+                                    <p>Supporting organizations with scalable strategies for sustainable growth and
+                                        successful market expansion.</p>
                                 </div>
                             </div>
-                            <!-- why items end -->
-                            <!-- why items start -->
+
+                            <!-- Item 4 -->
                             <div class="why-items right-after wow fadeInUp" data-wow-delay=".6s">
                                 <div class="why-icon">
-                                    <figure>
-                                        <img src="assets/images/why/icon-4.png" alt="why four">
-                                    </figure>
+                                    <i class="fa-solid fa-users"></i>
                                 </div>
                                 <div class="why-content">
-                                    <h2>Edit & download</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour, or randomised words
-                                        which don't look even slightly believable.</p>
+                                    <h2>Client-Centric</h2>
+                                    <p>Every engagement is tailored to business goals with collaboration, transparency,
+                                        and long-term value.</p>
                                 </div>
                             </div>
-                            <!-- why items end -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- why wapper end -->
-    </section>
-    <!-- why section end -->
 
-    <!-- project section start -->
-    <section class="project-section-3 pt-100 md-pt-80 pb-100 md-pb-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- section title start -->
-                    <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
-                        <span class="sub-title">Our Project</span>
-                        <h2>Our <span>Projects</span> &amp; Case Studiese</h2>
-                    </div>
-                    <!-- section title end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- project wapper start -->
-                    <div class="project-wapper grid-1">
-                        <!-- project item start -->
-                        <div class="project-item sticky">
-                            <div class="project-image order-lg-2">
-                                <a href="project-details.html">
-                                    <figure class="image-anime">
-                                        <img src="assets/images/project/project-3-1.jpg" alt="project image one">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <h2><a href="project-details.html">Where can you use AI-generated images?</a></h2>
-                                <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-                                    voluptates modi omnis dolore et mollitia dolorem alias voluptatibus tempora soluta
-                                    ut officia ullam magnam obcaecati accusantium.</p>
-                                <div class="check-list mb-30">
-                                    <ul>
-                                        <li>Design posters, ads, or event flyers</li>
-                                        <li>Create custom art for websites and apps</li>
-                                        <li>Make social media content that feels original</li>
-                                        <li>Explore visual branding ideas for clients</li>
-                                    </ul>
+                            <!-- Item 5 -->
+                            <div class="why-items right-after wow fadeInUp" data-wow-delay=".7s">
+                                <div class="why-icon">
+                                    <i class="fa-solid fa-chart-line"></i>
                                 </div>
-                                <div class="project-button">
-                                    <a href="project-details.html" class="theme-button style-1"
-                                        aria-label="View All Details">
-                                        <span data-text="View All Details">View All Details</span>
-                                        <i class="fa-solid fa-arrow-right"></i>
-                                    </a>
+                                <div class="why-content">
+                                    <h2>Measurable Outcomes</h2>
+                                    <p>Focused on delivering operational improvements that support sustainable business
+                                        performance.</p>
                                 </div>
                             </div>
+
+                            <!-- Item 6 -->
+                            <div class="why-items right-after wow fadeInUp" data-wow-delay=".8s">
+                                <div class="why-icon">
+                                    <i class="fa-solid fa-handshake"></i>
+                                </div>
+                                <div class="why-content">
+                                    <h2>Long-Term Partnerships</h2>
+                                    <p>Building trusted relationships by supporting clients beyond strategy through
+                                        consistent execution.</p>
+                                </div>
+                            </div>
+
                         </div>
-                        <!-- project item end -->
-                        <!-- project item start -->
-                        <div class="project-item sticky">
-                            <div class="project-image order-lg-2">
-                                <a href="project-details.html">
-                                    <figure class="image-anime">
-                                        <img src="assets/images/project/project-3-2.jpg" alt="project image two">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <h2><a href="project-details.html">Tips for achieving the best results</a></h2>
-                                <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-                                    voluptates modi omnis dolore et mollitia dolorem alias voluptatibus tempora soluta
-                                    ut officia ullam magnam obcaecati accusantium.</p>
-                                <div class="check-list mb-30">
-                                    <ul>
-                                        <li>Design posters, ads, or event flyers</li>
-                                        <li>Create custom art for websites and apps</li>
-                                        <li>Make social media content that feels original</li>
-                                        <li>Explore visual branding ideas for clients</li>
-                                    </ul>
-                                </div>
-                                <div class="project-button">
-                                    <a href="project-details.html" class="theme-button style-1"
-                                        aria-label="View All Details">
-                                        <span data-text="View All Details">View All Details</span>
-                                        <i class="fa-solid fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- project item end -->
-                        <!-- project item start -->
-                        <div class="project-item sticky">
-                            <div class="project-image order-lg-2">
-                                <a href="project-details.html">
-                                    <figure class="image-anime">
-                                        <img src="assets/images/project/project-3-3.jpg" alt="project image three">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <h2><a href="project-details.html">Download and edit your images</a></h2>
-                                <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-                                    voluptates modi omnis dolore et mollitia dolorem alias voluptatibus tempora soluta
-                                    ut officia ullam magnam obcaecati accusantium.</p>
-                                <div class="check-list mb-30">
-                                    <ul>
-                                        <li>Design posters, ads, or event flyers</li>
-                                        <li>Create custom art for websites and apps</li>
-                                        <li>Make social media content that feels original</li>
-                                        <li>Explore visual branding ideas for clients</li>
-                                    </ul>
-                                </div>
-                                <div class="project-button">
-                                    <a href="project-details.html" class="theme-button style-1"
-                                        aria-label="View All Details">
-                                        <span data-text="View All Details">View All Details</span>
-                                        <i class="fa-solid fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- project item end -->
                     </div>
-                    <!-- project wapper end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- project start -->
-                    <div class="project-footer">
-                        <p>We help businesses design, build, and deploy intelligent solutions that drive real results.
-                            <a href="project.html">View All Project</a></p>
-                    </div>
-                    <!-- more event content end -->
+
                 </div>
             </div>
         </div>
     </section>
-    <!-- project section end -->
-
-    <!-- marquee ticker section start -->
-    <div class="marquee-ticker-section">
-        <div class="marquee-ticker-box">
-            <div class="marquee-content">
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image one">
-                </div>
-                <p data-text="Our Community">
-                    AI Generated
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image two">
-                </div>
-                <p data-text="Donate Now">
-                    AI Image
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image three">
-                </div>
-                <p data-text="Save a Life">
-                    Prompt to Image
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image four">
-                </div>
-                <p data-text="Our Support">
-                    AI GIF
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image two">
-                </div>
-                <p data-text="Our Community">
-                    AI JPG
-                </p>
-            </div>
-            <div class="marquee-content">
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image one">
-                </div>
-                <p data-text="Our Community">
-                    AI Generated
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image two">
-                </div>
-                <p data-text="Donate Now">
-                    AI Image
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image three">
-                </div>
-                <p data-text="Save a Life">
-                    Prompt to Image
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image four">
-                </div>
-                <p data-text="Our Support">
-                    AI GIF
-                </p>
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="marquee image two">
-                </div>
-                <p data-text="Our Community">
-                    AI JPG
-                </p>
-            </div>
-        </div>
-    </div>
-    <!-- marquee ticker section end -->
+    <!-- why section end -->
 
     <!-- how works section start -->
     <section class="how-it-work-section pt-100 md-pt-80 pb-100 md-pb-80">
@@ -581,1066 +401,646 @@ ob_start();
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- section title start -->
                     <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
-                        <span class="sub-title">How it works</span>
-                        <h2>Our <span>process</span> for smarter AI solutions</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem voluptates modi omnis dolore
-                            et mollitia dolorem alias voluptatibus tempora soluta ut officia ullam magnam obcaecati
-                            accusantium.</p>
+                        <span class="sub-title">Our Process</span>
+                        <h2>How We <span>Work</span></h2>
+                        <p>
+                            Our structured approach ensures every engagement is focused on practical execution,
+                            operational excellence, and long-term business success.
+                        </p>
                     </div>
-                    <!-- section title end -->
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- how it work item start -->
                     <div class="how-it-work-item mt-lg-5 wow fadeInUp" data-wow-delay=".3s">
                         <div class="how-it-work-data right-after">
                             <div class="how-it-work-icon">
                                 <div class="icon">
                                     <figure>
-                                        <img src="assets/images/how-it-work/icon-3-1.png" alt="icon how it work one">
+                                        <img src="assets/images/how-it-work/1.png" alt="icon how it work one">
                                     </figure>
                                 </div>
                             </div>
                             <div class="how-it-work-content">
-                                <h2>Type your prompt</h2>
-                                <p>Start with a text description or add a reference image to guide structure, colors, or
-                                    vibe.</p>
+                                <h2>Discover</h2>
+                                <p>Understand your business goals, challenges, and growth opportunities.</p>
                             </div>
                         </div>
                         <div class="how-it-work-num">01</div>
                     </div>
                     <!-- how it work item start -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- how it work item start -->
                     <div class="how-it-work-item wow fadeInUp" data-wow-delay=".4s">
                         <div class="how-it-work-data right-after">
                             <div class="how-it-work-icon">
                                 <div class="icon">
                                     <figure>
-                                        <img src="assets/images/how-it-work/icon-3-2.png" alt="icon how it work two">
+                                        <img src="assets/images/how-it-work/2.png" alt="icon how it work two">
                                     </figure>
                                 </div>
                             </div>
                             <div class="how-it-work-content">
-                                <h2>Choose an AI model</h2>
-                                <p>Start with a text description or add a reference image to guide structure, colors, or
-                                    vibe.</p>
+                                <h2>Strategize</h2>
+                                <p>Create practical strategies aligned with your business objectives.</p>
                             </div>
                         </div>
                         <div class="how-it-work-num">02</div>
                     </div>
                     <!-- how it work item start -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- how it work item start -->
                     <div class="how-it-work-item mt-lg-5 wow fadeInUp" data-wow-delay=".5s">
                         <div class="how-it-work-data right-after">
                             <div class="how-it-work-icon">
                                 <div class="icon">
                                     <figure>
-                                        <img src="assets/images/how-it-work/icon-3-3.png" alt="icon how it work three">
+                                        <img src="assets/images/how-it-work/3.png" alt="icon how it work three">
                                     </figure>
                                 </div>
                             </div>
                             <div class="how-it-work-content">
-                                <h2>Edit and save</h2>
-                                <p>Start with a text description or add a reference image to guide structure, colors, or
-                                    vibe.</p>
+                                <h2>Execute</h2>
+                                <p>Implement solutions with operational excellence and measurable progress.</p>
                             </div>
                         </div>
                         <div class="how-it-work-num">03</div>
                     </div>
                     <!-- how it work item start -->
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <!-- how it work footer start -->
-                    <div class="how-it-work-footer text-center wow fadeInUp" data-wow-delay=".6s">
-                        <p>We help businesses design, build, and deploy intelligent solutions that drive real results.
-                            <a href="contact.html">Contact Now</a></p>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!-- how it work item start -->
+                    <div class="how-it-work-item wow fadeInUp" data-wow-delay=".4s">
+                        <div class="how-it-work-data right-after">
+                            <div class="how-it-work-icon">
+                                <div class="icon">
+                                    <figure>
+                                        <img src="assets/images/how-it-work/2.png" alt="icon how it work two">
+                                    </figure>
+                                </div>
+                            </div>
+                            <div class="how-it-work-content">
+                                <h2>Optimize</h2>
+                                <p>Continuously improve performance to support sustainable business growth.</p>
+                            </div>
+                        </div>
+                        <div class="how-it-work-num">02</div>
                     </div>
-                    <!-- how it work footer end -->
+                    <!-- how it work item start -->
                 </div>
             </div>
+
         </div>
     </section>
     <!-- how works section end -->
 
-    <!-- video section start -->
-    <div class="video-section-1 mlr">
-        <div class="video-wapper" data-img-src="assets/images/video/bg-vodeo-1.jpg">
-            <div class="video-circle">
-                <div class="cta-video-wapper wow fadeInUp" data-wow-delay=".2s">
-                    <a class="video-popup video-play play-center text-accent-one"
-                        href="https://www.youtube.com/watch?v=Y-x0efG1seA" aria-label="play video">
-                        <span class="icon"><i class="fa-solid fa-play"></i></span>
-                    </a>
+    <div class="marquee-ticker-section">
+        <div class="marquee-ticker-box">
+
+            <div class="marquee-content">
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Operations Excellence">
                 </div>
+                <p>Operations Excellence</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                </div>
+                <p>Customer Success</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Business Growth">
+                </div>
+                <p>Business Growth</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Market Research">
+                </div>
+                <p>Market Research</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Process Optimization">
+                </div>
+                <p>Process Optimization</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Operational Strategy">
+                </div>
+                <p>Operational Strategy</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Market Expansion">
+                </div>
+                <p>Market Expansion</p>
+
             </div>
+
+            <div class="marquee-content">
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Healthcare">
+                </div>
+                <p>Healthcare &amp; Health-Tech</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Technology">
+                </div>
+                <p>Technology &amp; SaaS</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Business Support">
+                </div>
+                <p>Business Support Services</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Execution">
+                </div>
+                <p>Execution-Focused Consulting</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Global Growth">
+                </div>
+                <p>Global Business Growth</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Operational Excellence">
+                </div>
+                <p>Operational Excellence</p>
+
+                <div class="marquee-icon">
+                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                </div>
+                <p>Customer Success</p>
+
+            </div>
+
         </div>
     </div>
-    <!-- video section end -->
 
-    <!-- testimonials section start -->
-    <section class="testimonials-section-3 pt-100 md-pt-80 pb-100 md-pb-80">
+    <!-- faq section start -->
+    <section class="faq-section-3 pt-100 pb-100">
         <div class="container">
+
             <div class="row">
                 <div class="col-lg-12">
+                    <div class="section-title-area">
+
+                        <div class="section-title wow fadeInUp" data-wow-delay=".2s">
+                            <span class="sub-title bg-white">Frequently Asked Questions</span>
+                            <h2>Everything You Need <span>to Know</span></h2>
+                        </div>
+
+                        <div class="section-title-content wow fadeInUp" data-wow-delay=".2s">
+                            <p>
+                                Explore answers to the most common questions about our consulting approach,
+                                business support services, operational strategies, and how Market Pionexa
+                                partners with organizations to achieve long-term, measurable growth.
+                            </p>
+                        </div>
+
+                    </div>
                 </div>
             </div>
-            <div class="row justify-content-between">
-                <div class="col-lg-5">
-                    <div class="testimonials-left wow fadeInUp" data-wow-delay=".2s">
-                        <!-- section title start -->
-                        <div class="section-title">
-                            <span class="sub-title">Real World Ai Implementation</span>
-                            <h2>Hear what our about <span>customer</span></h2>
-                            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-                                voluptates modi omnis dolore et mollitia dolorem alias voluptatibus tempora soluta ut
-                                officia ullam magnam obcaecati accusantium.</p>
-                        </div>
-                        <!-- section title end -->
 
-                        <!-- testimonials avatar-wapper start -->
-                        <div class="testimonials-avatar-wapper">
-                            <ul class="testimonials-avatar-list mb-0 d-flex gap-0">
-                                <li>
-                                    <figure>
-                                        <img src="assets/images/avatar/avatar-1.jpg" alt="about avtara one">
-                                    </figure>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <img src="assets/images/avatar/avatar-2.jpg" alt="about avtara two">
-                                    </figure>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <img src="assets/images/avatar/avatar-3.jpg" alt="about avtara three">
-                                    </figure>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <img src="assets/images/avatar/avatar-4.jpg" alt="about avtara four">
-                                    </figure>
-                                </li>
-                                <li>
-                                    <span>40+</span>
-                                </li>
-                            </ul>
-                            <div class="review-content">
-                                <p>16K+ Membership Join as a Volunteer</p>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="faq-content wow fadeInUp" data-wow-delay=".3s">
+
+                        <div class="accordion" id="accordionExample">
+
+                            <!-- FAQ 1 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        What business consulting services does Market Pionexa offer?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    Market Pionexa provides strategic business support designed to
+                                                    improve organizational performance. Our expertise includes
+                                                    operations excellence, customer success, market research,
+                                                    business process optimization, operational strategy, and
+                                                    business growth support. Every solution is customized to align
+                                                    with your organization's goals, industry requirements, and
+                                                    long-term vision.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
+
+                            <!-- FAQ 2 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Which industries do you work with?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    We collaborate with organizations across healthcare,
+                                                    health-tech, SaaS, technology, professional services,
+                                                    startups, and expanding enterprises. Our adaptable consulting
+                                                    framework allows us to understand industry-specific challenges
+                                                    while delivering practical and scalable business solutions.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 3 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        How does your consulting process work?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    Our engagement begins with understanding your business
+                                                    objectives, operational challenges, and growth priorities.
+                                                    We then conduct detailed assessments, develop actionable
+                                                    strategies, support implementation, and continuously review
+                                                    progress to ensure sustainable business improvements and
+                                                    measurable outcomes.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 4 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
+                                        Can Market Pionexa support business expansion and scaling?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseFour" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    Yes. We assist organizations in preparing for sustainable
+                                                    expansion through market analysis, operational planning,
+                                                    process optimization, customer experience enhancement,
+                                                    execution support, and strategic decision-making. Our goal is
+                                                    to help businesses expand with confidence and operational
+                                                    readiness.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 5 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        How can I get started with Market Pionexa?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseFive" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    Getting started is simple. Reach out through our contact
+                                                    form, email, or consultation request page with your business
+                                                    requirements. Our team will review your objectives, schedule
+                                                    an initial discussion, and recommend an engagement approach
+                                                    tailored to your organization’s specific needs.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                        Why choose Market Pionexa as your consulting partner?
+                                    </button>
+                                </h2>
+
+                                <div id="collapseSix" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <div class="inner">
+                                            <div class="accordion-content">
+                                                <p>
+                                                    At Market Pionexa, we focus on practical execution rather
+                                                    than theoretical recommendations. We work alongside your
+                                                    team to streamline operations, strengthen customer
+                                                    experiences, improve business processes, and build strategies
+                                                    that create long-term value while supporting sustainable
+                                                    organizational growth.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
-                        <!-- testimonials avatar-wapper end -->
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- faq section end -->
+
+    <!-- testimonials section start -->
+    <section class="testimonials-section-1 mlr">
+        <div class="testimonials-wrapper pb-100 pt-100 md-pb-80">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center mb-30 wow fadeInUp" data-wow-delay=".2s">
+                            <span class="sub-title">Client Testimonials</span>
+                            <h2>What Our <span>Clients Say</span></h2>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <!-- testimonials right start -->
-                    <div class="testimonials-right">
-                        <!-- testimonials slider start -->
-                        <div class="swiper testimonials-slider-one">
-                            <!-- swiper wrapper start -->
+
+                <div class="row">
+                    <div class="col-lg-12">
+
+                        <div class="swiper testimonials-slider-three">
+
                             <div class="swiper-wrapper">
-                                <!-- swiper slide start -->
+
+                                <!-- Testimonial 1 -->
                                 <div class="swiper-slide">
-                                    <!-- testimonials item start -->
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
                                             <div class="testimonials-quote">
                                                 <i class="fa-solid fa-quote-left"></i>
                                             </div>
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                            </div>
                                         </div>
+
                                         <div class="testimonials-content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisc eiusmod tempor incididunt
-                                                ut labore etedum doad minim veniam, a uis nostr incidi dunt ut laborci
-                                                tempor incididunt ut labore cididunt ut labore etedu doad minim. a uis
-                                                nostr incididunt.</p>
+                                            <p>
+                                                Market Pionexa demonstrated a structured approach throughout
+                                                the engagement and helped streamline key operational
+                                                processes with practical execution support.
+                                            </p>
                                         </div>
+
                                         <div class="testimonials-author-box">
                                             <div class="testimonials-author">
-                                                <div class="testimonials-author-image">
-                                                    <figure>
-                                                        <img src="assets/images/avatar/avatar-1.jpg" alt="avatar">
-                                                    </figure>
-                                                </div>
                                                 <div class="testimonials-author-content">
-                                                    <h2>Nasir Jamil</h2>
-                                                    <p>Volunteer</p>
+                                                    <h2>Healthcare Client</h2>
+                                                    <p>Operations Team</p>
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
-                                    <!-- testimonials item end -->
                                 </div>
-                                <!-- swiper slide end -->
-                                <!-- swiper slide start -->
+
+                                <!-- Testimonial 2 -->
                                 <div class="swiper-slide">
-                                    <!-- testimonials item start -->
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
                                             <div class="testimonials-quote">
                                                 <i class="fa-solid fa-quote-left"></i>
                                             </div>
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                            </div>
                                         </div>
+
                                         <div class="testimonials-content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisc eiusmod tempor incididunt
-                                                ut labore etedum doad minim veniam, a uis nostr incidi dunt ut laborci
-                                                tempor incididunt ut labore cididunt ut labore etedu doad minim. a uis
-                                                nostr incididunt.</p>
+                                            <p>
+                                                Their collaborative approach and operational expertise
+                                                supported our business objectives while improving customer
+                                                success and execution across multiple initiatives.
+                                            </p>
                                         </div>
+
                                         <div class="testimonials-author-box">
                                             <div class="testimonials-author">
-                                                <div class="testimonials-author-image">
-                                                    <figure>
-                                                        <img src="assets/images/avatar/avatar-2.jpg" alt="avatar">
-                                                    </figure>
-                                                </div>
                                                 <div class="testimonials-author-content">
-                                                    <h2>Nasir Jamil</h2>
-                                                    <p>Volunteer</p>
+                                                    <h2>Technology Client</h2>
+                                                    <p>SaaS Business</p>
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
-                                    <!-- testimonials item end -->
                                 </div>
-                                <!-- swiper slide end -->
-                                <!-- swiper slide start -->
+
+                                <!-- Testimonial 3 -->
                                 <div class="swiper-slide">
-                                    <!-- testimonials item start -->
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
                                             <div class="testimonials-quote">
                                                 <i class="fa-solid fa-quote-left"></i>
                                             </div>
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                                <i class="fa-solid fa-star active"></i>
-                                            </div>
                                         </div>
+
                                         <div class="testimonials-content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisc eiusmod tempor incididunt
-                                                ut labore etedum doad minim veniam, a uis nostr incidi dunt ut laborci
-                                                tempor incididunt ut labore cididunt ut labore etedu doad minim. a uis
-                                                nostr incididunt.</p>
+                                            <p>
+                                                Their execution-focused consulting helped improve internal
+                                                workflows and provided valuable guidance for sustainable
+                                                business growth and expansion planning.
+                                            </p>
                                         </div>
+
                                         <div class="testimonials-author-box">
                                             <div class="testimonials-author">
-                                                <div class="testimonials-author-image">
-                                                    <figure>
-                                                        <img src="assets/images/avatar/avatar-3.jpg" alt="avatar">
-                                                    </figure>
-                                                </div>
                                                 <div class="testimonials-author-content">
-                                                    <h2>Nasir Jamil</h2>
-                                                    <p>Volunteer</p>
+                                                    <h2>Growth Business</h2>
+                                                    <p>Business Leadership</p>
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
-                                    <!-- testimonials item end -->
                                 </div>
-                                <!-- swiper slide end -->
+
+                                <!-- Testimonial 4 -->
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item right-after">
+                                        <div class="testimonials-meta">
+                                            <div class="testimonials-quote">
+                                                <i class="fa-solid fa-quote-left"></i>
+                                            </div>
+                                        </div>
+
+                                        <div class="testimonials-content">
+                                            <p>
+                                                We appreciated their disciplined execution, clear
+                                                communication, and practical recommendations that aligned
+                                                with our long-term operational priorities.
+                                            </p>
+                                        </div>
+
+                                        <div class="testimonials-author-box">
+                                            <div class="testimonials-author">
+                                                <div class="testimonials-author-content">
+                                                    <h2>Business Partner</h2>
+                                                    <p>Executive Team</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
                             </div>
-                            <!-- swiper wrapper end -->
-                            <!-- swiper actions start -->
-                            <div class="swiper-actions ms-2 mt-30">
+
+                            <div class="swiper-actions ms-2 text-center">
                                 <div class="dot"></div>
                             </div>
-                            <!-- swiper actions end -->
+
                         </div>
-                        <!-- testimonials slider end -->
 
                     </div>
-                    <!-- testimonials right end -->
                 </div>
+
             </div>
         </div>
     </section>
     <!-- testimonials section end -->
 
-    <!-- pricing section start -->
-    <section class="pricing-section pricing-two pb-70 md-pb-50">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- pricing title box start -->
-                    <div class="pricing-title-box wow fadeInUp" data-wow-delay=".2s">
-                        <!-- section title start -->
-                        <div class="section-title text-center mb-30">
-                            <span class="sub-title">Pricing Plans</span>
-                            <h2>Choose the <span>Perfect Plan</span> to Your AI-Driven Success</h2>
-                        </div>
-                        <!-- section title end -->
-                        <div class="pricing-tabs">
-                            <!-- nav tabs start -->
-                            <nav class="text-center">
-                                <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                    <button class="nav-link active" id="nav-monthly-tab" data-bs-toggle="tab"
-                                        data-bs-target="#nav-monthly" type="button" role="tab"
-                                        aria-controls="nav-monthly" aria-selected="true">Monthly</button>
-                                    <button class="nav-link" id="nav-yearly-tab" data-bs-toggle="tab"
-                                        data-bs-target="#nav-yearly" type="button" role="tab" aria-controls="nav-yearly"
-                                        aria-selected="false">Yearly</button>
-                                </div>
-                            </nav>
-                            <!-- nav tabs end -->
-                        </div>
-                    </div>
-                    <!-- pricing title box end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- tab content start -->
-                    <div class="tab-content wow fadeInUp" data-wow-delay=".3s">
-                        <!-- tab pane start -->
-                        <div class="tab-pane fade active show" id="nav-monthly" role="tabpanel"
-                            aria-labelledby="nav-monthly-tab" tabindex="0">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-1.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>39 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Starter</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-2.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>59 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Pro Plan</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-3.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>79 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Enterprise Plan</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- tab pane end -->
-                        <!-- tab pane start -->
-                        <div class="tab-pane fade" id="nav-yearly" role="tabpanel" aria-labelledby="nav-yearly-tab"
-                            tabindex="0">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-1.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>59 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Starter</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-2.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>99 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Pro Plan</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                                <div class="col-lg-4">
-                                    <!-- pricing item start -->
-                                    <div class="pricing-item right-after">
-                                        <div class="pricing-content">
-                                            <div class="pricing-top">
-                                                <div class="pricing-top-icon">
-                                                    <figure>
-                                                        <img src="assets/images/pricing/pricing-icon-3.png"
-                                                            alt="pricing icons">
-                                                    </figure>
-                                                </div>
-                                                <div class="pricing-top-content">
-                                                    <h2>150 USD</h2>
-                                                    <p>Billed Annually for 30% Off</p>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-tag">
-                                                <span>Enterprise Plan</span>
-                                            </div>
-                                            <div class="pricing-list">
-                                                <p class="text-white fw-bold mb-2">What's included?</p>
-                                                <div class="check-list">
-                                                    <ul>
-                                                        <li>60+ Premium features</li>
-                                                        <li>Unlimited supports</li>
-                                                        <li>90+ Expert members</li>
-                                                        <li>Data Insights</li>
-                                                        <li>Lifetime Updates</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="pricing-button-wapper">
-                                                <a href="pricing.html" class="theme-button style-1"
-                                                    aria-label="Choose Plan">
-                                                    <span data-text="Choose Plan">Choose Plan</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- pricing item end -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- tab pane end -->
-                    </div>
-                    <!-- tab content end -->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- pricing section end -->
-
-    <!-- team section start -->
-    <section class="team-section-1 pb-70 md-pb-50">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- section title start -->
-                    <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
-                        <span class="sub-title">Our Team</span>
-                        <h2>Our Professionals AI <span>Expert Team</span></h2>
-                    </div>
-                    <!-- section title end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xxl-6 col-xl-6 col-lg-12">
-                    <!-- team list start -->
-                    <div class="team-list">
-                        <!-- team-item start -->
-                        <div class="team-item right-after align-items-center">
-                            <div class="team-image">
-                                <figure>
-                                    <img src="assets/images/team/team-3-1.jpg" alt="team one">
-                                </figure>
-                            </div>
-                            <div class="team-content">
-                                <h2><a href="team-details.html">Catherine Denuve</a></h2>
-                                <p class="designation">Administrator</p>
-                            </div>
-                        </div>
-                        <!-- team-item end -->
-                        <!-- team-item start -->
-                        <div class="team-item right-after align-items-center">
-                            <div class="team-image">
-                                <figure>
-                                    <img src="assets/images/team/team-3-2.jpg" alt="team one">
-                                </figure>
-                            </div>
-                            <div class="team-content">
-                                <h2><a href="team-details.html">Laurence Olivier</a></h2>
-                                <p class="designation">Administrator</p>
-                            </div>
-                        </div>
-                        <!-- team-item end -->
-                        <!-- team-item start -->
-                        <div class="team-item right-after align-items-center">
-                            <div class="team-image">
-                                <figure>
-                                    <img src="assets/images/team/team-3-3.jpg" alt="team one">
-                                </figure>
-                            </div>
-                            <div class="team-content">
-                                <h2><a href="team-details.html">Susan Hopkins</a></h2>
-                                <p class="designation">Administrator</p>
-                            </div>
-                        </div>
-                        <!-- team-item end -->
-                    </div>
-                    <!-- team list end -->
-                </div>
-                <div class="col-xxl-6 col-xl-6 col-lg-12">
-                    <!-- team-item start -->
-                    <div class="team-item item-right right-after">
-                        <div class="team-image">
-                            <figure>
-                                <img src="assets/images/team/team-3-4.jpg" alt="team one">
-                            </figure>
-                        </div>
-                        <div class="team-content">
-                            <h2><a href="team-details.html">Keanu Reeves</a></h2>
-                            <p class="designation">President of Sales</p>
-                            <div class="team-more-details mt-30">
-                                <p class="desc mb-20">Lorem ipsum dolor sit amet, consectetur adipisc eiusmod tempor
-                                    incididunt ut labore etedum doad minim veniam, a uis nostr incidi dunt ut laborci
-                                    tempor incididunt ut labore cididunt ut labore.</p>
-                                <!-- progress wapper start -->
-                                <div class="progress-wapper mb-40">
-                                    <!-- single progressbar start -->
-                                    <div class="single-progressbar">
-                                        <div class="progress-title">Artificial Intelligence</div>
-                                        <div class="progressbar">
-                                            <div class="progress-bar-count counted" data-percent="95%"></div>
-                                        </div>
-                                    </div>
-                                    <!-- single progressbar end -->
-                                    <!-- single progressbar start -->
-                                    <div class="single-progressbar">
-                                        <div class="progress-title">Robotics Management</div>
-                                        <div class="progressbar">
-                                            <div class="progress-bar-count counted" data-percent="85%"></div>
-                                        </div>
-                                    </div>
-                                    <!-- single progressbar end -->
-                                    <!-- single progressbar start -->
-                                    <div class="single-progressbar">
-                                        <div class="progress-title">Meal Contribution</div>
-                                        <div class="progressbar">
-                                            <div class="progress-bar-count counted" data-percent="92%"></div>
-                                        </div>
-                                    </div>
-                                    <!-- single progressbar end -->
-                                </div>
-                                <!-- progress wapper end -->
-                                <!-- footer social icon start -->
-                                <div class="footer-social-icon">
-                                    <ul class="social-icon">
-                                        <li>
-                                            <a href="#" aria-label="instagram"><i
-                                                    class="fa-brands fa-instagram"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" aria-label="facebook"><i
-                                                    class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" aria-label="pinterest"><i
-                                                    class="fa-brands fa-pinterest-p"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!-- footer social icon end -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- team-item end -->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- team section end -->
-
-    <!-- faq section start -->
-    <section class="faq-section-3">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- section title area start -->
-                    <div class="section-title-area">
-                        <div class="section-title wow fadeInUp" data-wow-delay=".2s">
-                            <span class="sub-title bg-white">Our Faq's</span>
-                            <h2>Your AI <span>questions</span>, answered here</h2>
-                        </div>
-                        <div class="section-title-content wow fadeInUp" data-wow-delay=".2s">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem voluptates modi omnis
-                                dolore et mollitia dolorem alias voluptatibus tempora soluta ut officia ullam magnam
-                                obcaecati accusantium.</p>
-                        </div>
-                    </div>
-                    <!-- section title area end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- faq-content start -->
-                    <div class="faq-content wow fadeInUp" data-wow-delay=".3s">
-                        <!-- accordion start -->
-                        <div class="accordion" id="accordionExample">
-                            <!-- accordion item start -->
-                            <div class="accordion-item">
-                                <!-- accordion-header start -->
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is this project management platform used for?
-                                    </button>
-                                </h2>
-                                <!-- accordion header end -->
-                                <!-- accordion collapse start -->
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionExample">
-                                    <!-- accordion body start -->
-                                    <div class="accordion-body">
-                                        <div class="inner">
-                                            <div class="accordion-content">
-                                                <p>
-                                                    It is a long established fact that a reader will be distracted by
-                                                    the readable content of a page when looking at its layout. The point
-                                                    of using Lorem Ipsum is that it has a
-                                                    more-or-less normal distribution of letters, as opposed to using
-                                                    'Content here, content here', making it look like readable English
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- accordion body end -->
-                                </div>
-                                <!-- accordion collapse end -->
-                            </div>
-                            <!-- accordion item end -->
-                            <!-- accordion item start -->
-                            <div class="accordion-item">
-                                <!-- accordion-header start -->
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Who is this platform best suited for?
-                                    </button>
-                                </h2>
-                                <!-- accordion header end -->
-                                <!-- accordion collapse start -->
-                                <div id="collapseTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <!-- accordion body start -->
-                                    <div class="accordion-body">
-                                        <div class="inner">
-                                            <div class="accordion-content">
-                                                <p>
-                                                    It depends on your lifestyle. Contact lenses offer convenience for
-                                                    sports and aesthetics, while glasses are easier to maintain and
-                                                    cost-effective over time. An eye doctor
-                                                    can help you decide what suits you best.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- accordion body end -->
-                                </div>
-                                <!-- accordion collapse end -->
-                            </div>
-                            <!-- accordion item end -->
-                            <!-- accordion item start -->
-                            <div class="accordion-item">
-                                <!-- accordion-header start -->
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        Can I manage multiple projects at the same time?
-                                    </button>
-                                </h2>
-                                <!-- accordion header end -->
-                                <!-- accordion collapse start -->
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <!-- accordion body start -->
-                                    <div class="accordion-body">
-                                        <div class="inner">
-                                            <p>
-                                                It is a long established fact that a reader will be distracted by the
-                                                readable content of a page when looking at its layout. The point of
-                                                using Lorem Ipsum is that it has a
-                                                more-or-less normal distribution of letters, as opposed to using
-                                                'Content here, content here', making it look like readable English
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <!-- accordion body end -->
-                                </div>
-                                <!-- accordion collapse end -->
-                            </div>
-                            <!-- accordion item end -->
-                            <!-- accordion item start -->
-                            <div class="accordion-item">
-                                <!-- accordion-header start -->
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFour" aria-expanded="false"
-                                        aria-controls="collapseFour">
-                                        Does it support team collaboration?
-                                    </button>
-                                </h2>
-                                <!-- accordion-header end -->
-                                <!-- accordion collapse start -->
-                                <div id="collapseFour" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <!-- accordion body start -->
-                                    <div class="accordion-body">
-                                        <div class="inner">
-                                            <div class="accordion-content">
-                                                <p>
-                                                    It is a long established fact that a reader will be distracted by
-                                                    the readable content of a page when looking at its layout. The point
-                                                    of using Lorem Ipsum is that it has a
-                                                    more-or-less normal distribution of letters, as opposed to using
-                                                    'Content here, content here', making it look like readable English
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- accordion body end -->
-                                </div>
-                                <!-- accordion collapse end-->
-                            </div>
-                            <!-- accordion item end -->
-                            <!-- accordion item start -->
-                            <div class="accordion-item">
-                                <!-- accordion-header start -->
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFive" aria-expanded="false"
-                                        aria-controls="collapseFive">
-                                        Is the platform suitable for remote or distributed teams?
-                                    </button>
-                                </h2>
-                                <!-- accordion-header end -->
-                                <!-- accordion collapse start -->
-                                <div id="collapseFive" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <!-- accordion body start -->
-                                    <div class="accordion-body">
-                                        <div class="inner">
-                                            <div class="accordion-content">
-                                                <p>
-                                                    It is a long established fact that a reader will be distracted by
-                                                    the readable content of a page when looking at its layout. The point
-                                                    of using Lorem Ipsum is that it has a
-                                                    more-or-less normal distribution of letters, as opposed to using
-                                                    'Content here, content here', making it look like readable English
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- accordion body end -->
-                                </div>
-                                <!-- accordion collapse end-->
-                            </div>
-                            <!-- accordion item end -->
-                        </div>
-                        <!-- accordion end -->
-                    </div>
-                    <!-- faq-content end -->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- faq section end -->
-
     <!-- blog section start -->
     <section class="blog-section pt-100 md-pt-80 pb-70 md-pb-50">
         <div class="container">
+
             <div class="row">
                 <div class="col-lg-12">
                     <!-- section title start -->
                     <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
-                        <span class="sub-title">Latest Blog</span>
-                        <h2>AI and Creativity Stories <span>Articles &amp; Tips</span></h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem voluptates modi omnis dolore
-                            et mollitia dolorem alias voluptatibus tempora soluta ut officia ullam magnam obcaecati
-                            accusantium.</p>
+                        <span class="sub-title">Latest Insights</span>
+                        <h2>Business Insights <span>&amp; Industry Trends</span></h2>
                     </div>
                     <!-- section title end -->
                 </div>
             </div>
+
             <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <!-- blog grid item start -->
+                <div class="col-xl-4 col-lg-12">
                     <div class="blog-grid-item-1 right-after wow fadeInUp" data-wow-delay=".3s">
-                        <!-- blog grid image start -->
+
                         <div class="blog-grid-image">
-                            <a href="blog-details.html">
+                            <a href="javascript:void(0)">
                                 <figure class="image-anime">
-                                    <img src="assets/images/blog/blog-1.jpg" alt="blog image one">
+                                    <img src="assets/images/blog/blog-1.jpg" alt="Business Growth">
                                 </figure>
                             </a>
                         </div>
-                        <!-- blog grid image end -->
-                        <!-- blog grid content start -->
+
                         <div class="blog-grid-content">
-                            <ul class="blog-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa-solid fa-user"></i>
-                                        <span>Admin</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <span>March 14, 2025</span>
-                                </li>
-                            </ul>
-                            <h2><a href="blog-details.html">Why Design Matters Long-Term Business</a></h2>
+
+                            <h2>
+                                <a href="javascript:void(0)">
+                                    Operational Excellence for Business Growth
+                                </a>
+                            </h2>
+
                             <div class="blog-grid-button">
-                                <a href="blog-details.html" class="read-more-btn">More Details</a>
+                                <a href="javascript:void(0)" class="read-more-btn">
+                                    More Details
+                                </a>
                             </div>
+
                         </div>
-                        <!-- blog grid content end -->
+
                     </div>
-                    <!-- blog grid item end -->
                 </div>
-                <div class="col-lg-4 col-md-12">
-                    <!-- blog grid item start -->
-                    <div class="blog-grid-item-1 right-after wow fadeInUp" data-wow-delay=".4s">
-                        <!-- blog grid image start -->
+
+                <div class="col-xl-4 col-lg-12">
+                    <div class="blog-grid-item-1 right-after wow fadeInUp" data-wow-delay=".3s">
                         <div class="blog-grid-image">
-                            <a href="blog-details.html">
+                            <a href="javascript:void(0)">
                                 <figure class="image-anime">
-                                    <img src="assets/images/blog/blog-2.jpg" alt="blog image two">
+                                    <img src="assets/images/blog/blog-2.jpg" alt="Business Growth">
                                 </figure>
                             </a>
                         </div>
-                        <!-- blog grid image end -->
-                        <!-- blog grid content start -->
                         <div class="blog-grid-content">
-                            <ul class="blog-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa-solid fa-user"></i>
-                                        <span>Admin</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <span>March 14, 2025</span>
-                                </li>
-                            </ul>
-                            <h2><a href="blog-details.html">Top 10 most popular AI Automation tools</a></h2>
+                            <h2>
+                                <a href="javascript:void(0)">
+                                    Customer Success Strategies That Scale
+                                </a>
+                            </h2>
                             <div class="blog-grid-button">
-                                <a href="blog-details.html" class="read-more-btn">More Details</a>
+                                <a href="javascript:void(0)" class="read-more-btn">
+                                    More Details
+                                </a>
                             </div>
                         </div>
-                        <!-- blog grid content end -->
                     </div>
-                    <!-- blog grid item end -->
                 </div>
-                <div class="col-lg-4 col-md-12">
-                    <!-- blog grid item start -->
-                    <div class="blog-grid-item-1 right-after wow fadeInUp" data-wow-delay=".5s">
-                        <!-- blog grid image start -->
+
+                <div class="col-xl-4 col-lg-12">
+                    <div class="blog-grid-item-1 right-after wow fadeInUp" data-wow-delay=".3s">
                         <div class="blog-grid-image">
-                            <a href="blog-details.html">
+                            <a href="javascript:void(0)">
                                 <figure class="image-anime">
-                                    <img src="assets/images/blog/blog-3.jpg" alt="blog image three">
+                                    <img src="assets/images/blog/blog-3.jpg" alt="Business Growth">
                                 </figure>
                             </a>
                         </div>
-                        <!-- blog grid image end -->
-                        <!-- blog grid content start -->
+
                         <div class="blog-grid-content">
-                            <ul class="blog-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa-solid fa-user"></i>
-                                        <span>Admin</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <span>March 14, 2025</span>
-                                </li>
-                            </ul>
-                            <h2><a href="blog-details.html">How to generate audience Using AI Tools?</a></h2>
+                            <h2>
+                                <a href="javascript:void(0)">
+                                    Preparing for Successful Market Expansion
+                                </a>
+                            </h2>
                             <div class="blog-grid-button">
-                                <a href="blog-details.html" class="read-more-btn">More Details</a>
+                                <a href="javascript:void(0)" class="read-more-btn">
+                                    More Details
+                                </a>
                             </div>
                         </div>
-                        <!-- blog grid content end -->
                     </div>
-                    <!-- blog grid item end -->
                 </div>
             </div>
         </div>
