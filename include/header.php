@@ -119,14 +119,13 @@
                                                 Services <i class="fa-solid fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="operations-excellence.php">Operations Excellence</a></li>
-                                                <li><a href="customer-success.php">Customer Success & Support</a></li>
-                                                <li><a href="business-growth.php">Business Growth & Expansion</a></li>
-                                                <li><a href="market-research.php">Market Research</a></li>
-                                                <li><a href="process-optimization.php">Process Optimization</a></li>
-                                                <li><a href="operational-strategy.php">Operational Strategy</a></li>
-                                                <li><a href="business-support.php">Business Support Services</a></li>
-                                                <li><a href="market-entry.php">Market Entry & Expansion</a></li>
+                                                <li><a href="dedicated-remote-teams.php">Dedicated Remote Teams</a></li>
+                                                <li><a href="business-operations.php">Business Operations</a></li>
+                                                <li><a href="market-research-business-intelligence.php">Market Research & Business Intelligence</a></li>
+                                                <li><a href="strategic-business-consulting.php">Strategic Business Consulting</a></li>
+                                                <li><a href="global-expansion-india-market-entry.php">Global Expansion & India Market Entry</a></li>
+                                                <li><a href="sales-operations.php">Sales Operations</a></li>
+                                                <li><a href="customer-success-workforce-support.php">Customer Success & Workforce Support</a></li>
                                             </ul>
                                         </li>
 
