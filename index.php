@@ -141,36 +141,123 @@ ob_start();
                     </div>
                 </div>
                 <div class="col-lg-12">
-                    <div class="micon-wapper">
-                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".3s">
-                            <div class="micon-content">
-                                <h2>Healthcare & Health-Tech</h2>
-                                <p> Supporting healthcare organizations and digital health companies through operational
-                                    excellence, customer success, benefits administration support, process optimization,
-                                    and growth initiatives.</p>
+                    <div class="micon-wapper justify-content-center d-block">
+                        <div class="swiper testimonials-slider-one">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item">
+                                        <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".3s">
+                                            <div class="micon-content">
+                                                <h2>Healthcare & HealthTech</h2>
+                                                <p>Supporting healthcare organizations and digital health companies
+                                                    through operational excellence, customer success, and workforce
+                                                    solutions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item">
+                                        <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".4s">
+                                            <div class="micon-content">
+                                                <h2>Technology</h2>
+                                                <p>Helping technology and SaaS businesses scale through customer success
+                                                    operations,
+                                                    process improvement, operational support, and business execution
+                                                    services.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item">
+                                        <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".5s">
+                                            <div class="micon-content">
+                                                <h2>Financial Services</h2>
+                                                <p>Supporting financial organizations with operational excellence,
+                                                    market research, business consulting, and execution support for
+                                                    sustainable growth.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item">
+                                        <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".6s">
+                                            <div class="micon-content">
+                                                <h2>E-commerce & Consumer Brands</h2>
+                                                <p>Helping consumer brands improve sales operations, customer support,
+                                                    business
+                                                    processes, and scalable remote team management.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item">
+                                        <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".7s">
+                                            <div class="micon-content">
+                                                <h2>Startups & High-Growth Companies</h2>
+                                                <p>Helping startups build remote teams, streamline operations,
+                                                    accelerate growth, and
+                                                    execute scalable business strategies.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-actions text-center mt-30">
+                                <div class="dot"></div>
                             </div>
                         </div>
+
+                        <!-- <div class="micon-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="micon-content">
+                                <h2>Healthcare & HealthTech</h2>
+                                <p>Supporting healthcare organizations and digital health companies through operational
+                                    excellence, customer success, and remote workforce solutions.</p>
+                            </div>
+                        </div>
+
                         <div class="micon-items right-after wow fadeInUp" data-wow-delay=".4s">
                             <div class="micon-content">
-                                <h2>Technology & SaaS </h2>
+                                <h2>Technology</h2>
                                 <p>Helping technology and SaaS businesses scale through customer success operations,
-                                    process improvement, operational support, and business execution services.Lorem
-                                    ipsum dolor sit amet, compor incididunt ut labo enim ut labo enim ad mini.</p>
+                                    process improvement, operational support, and business execution services.</p>
                             </div>
                         </div>
+
                         <div class="micon-items right-after wow fadeInUp" data-wow-delay=".5s">
                             <div class="micon-content">
-                                <h2>Growth & Market Expansion</h2>
-                                <p>Supporting organizations with market research, market-entry planning, operational
-                                    setup, business expansion, and execution support.</p>
+                                <h2>Financial Services</h2>
+                                <p>Supporting financial organizations with operational excellence, market research,
+                                    business consulting, and execution support.</p>
                             </div>
                         </div>
+
+                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".6s">
+                            <div class="micon-content">
+                                <h2>E-commerce & Consumer Brands</h2>
+                                <p>Helping consumer brands improve sales operations, customer support, business
+                                    processes, and scalable remote team management.</p>
+                            </div>
+                        </div>
+
+                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".7s">
+                            <div class="micon-content">
+                                <h2>Startups & High-Growth Companies</h2>
+                                <p>Helping startups build remote teams, streamline operations, accelerate growth, and
+                                    execute scalable business strategies.</p>
+                            </div>
+                        </div> -->
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- micon section end -->
+
 
     <!-- services section start -->
     <section class="services-section pb-100 md-pb-80">

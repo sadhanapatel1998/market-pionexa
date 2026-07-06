@@ -132,7 +132,7 @@
 
                                         <li class="nav-item">
                                             <a class="nav-link" href="industries.php">
-                                                Industries
+                                                Industries we serve
                                             </a>
                                             <!-- <ul class="submenu">
                                                 <li><a href="healthcare.php">Healthcare & Health-Tech</a></li>

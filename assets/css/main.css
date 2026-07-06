@@ -10137,7 +10137,7 @@ button:focus {
 }
 @media (max-width: 1199px) {
   .micon-section .micon-wapper {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 @media (max-width: 767px) {
@@ -10161,11 +10161,11 @@ button:focus {
   margin-bottom: 30px;
   z-index: 1;
   overflow: hidden;
-  padding: 30px;
+    padding: 20px;
 }
 @media (max-width: 991px) {
   .micon-section .micon-wapper .micon-items {
-    padding: 20px;
+    padding: 15px;
   }
 }
 .micon-section .micon-wapper .micon-items:after {
@@ -10191,7 +10191,9 @@ button:focus {
   color: var(--white-color);
   margin-bottom: 0;
 }
-
+.testimonials-item .micon-items {
+  min-height: 230px;
+}
 .image-generator-section .image-generator-wapper {
   display: grid;
   grid-template-columns: repeat(5, 1fr);

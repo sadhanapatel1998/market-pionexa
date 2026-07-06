@@ -11,7 +11,7 @@ ob_start();
                 <div class="col-lg-12">
                     <div class="breadcrumb-content">
                         <div class="breadcrumb-title wow fadeInUp" data-wow-delay=".2s">
-                            <h1>Industries</h1>
+                            <h1>Industries We Serve</h1>
                         </div>
                         <nav aria-label="breadcrumb" class="wow fadeInUp" data-wow-delay=".3s">
                             <ol class="breadcrumb">
@@ -91,7 +91,8 @@ ob_start();
                             </div>
                         </div>
                         <!-- project item end -->
-                        <!-- project item start -->
+
+                        <!-- project item 2 start -->
                         <div class="project-item sticky">
                             <div class="project-image order-lg-2">
                                 <a href="javascript:void(0)">
@@ -103,7 +104,7 @@ ob_start();
                             <div class="project-content">
                                 <h2>
                                     <a href="javascript:void(0)">
-                                        Technology & SaaS
+                                        Technology
                                     </a>
                                 </h2>
 
@@ -133,7 +134,88 @@ ob_start();
                             </div>
                         </div>
                         <!-- project item end -->
-                        <!-- project item start -->
+
+                        <!-- project item 3 start -->
+                        <div class="project-item sticky">
+                            <div class="project-image order-lg-2">
+                                <a href="javascript:void(0)">
+                                    <figure class="image-anime">
+                                        <img src="assets/images/project/project-4.jpg" alt="project image three">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="project-content">
+                                <h2>
+                                    <a href="growth-market-expansion.php">
+                                        Financial Services
+                                    </a>
+                                </h2>
+
+                                <p class="desc">
+                                    We support financial institutions and fintech businesses through operational
+                                    excellence, market research, business consulting, remote workforce solutions,
+                                    and execution support that strengthens efficiency, compliance, and sustainable
+                                    business growth.
+                                </p>
+
+                                <div class="check-list mb-30">
+                                    <ul>
+                                        <li>Business operations support</li>
+                                        <li>Market research & insights</li>
+                                        <li>Strategic business consulting</li>
+                                        <li>Execution & growth support</li>
+                                    </ul>
+                                </div>
+
+                                <div class="project-button">
+                                    <a href="contact-us.php" class="theme-button style-1">
+                                        <span data-text="Book Consultation">Book Consultation</span>
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="project-item sticky">
+                            <div class="project-image order-lg-2">
+                                <a href="javascript:void(0)">
+                                    <figure class="image-anime">
+                                        <img src="assets/images/project/project-5.jpg" alt="project image three">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="project-content">
+                                <h2>
+                                    <a href="growth-market-expansion.php">
+                                        E-commerce & Consumer Brands
+                                    </a>
+                                </h2>
+
+                                <p class="desc">
+                                    We help e-commerce businesses and consumer brands optimize sales operations,
+                                    strengthen customer experience, streamline business processes, and build
+                                    scalable remote teams that improve operational efficiency and support
+                                    sustainable business growth in competitive markets.
+                                </p>
+
+                                <div class="check-list mb-30">
+                                    <ul>
+                                        <li>Sales operations support</li>
+                                        <li>Customer experience management</li>
+                                        <li>Remote team solutions</li>
+                                        <li>Operational process optimization</li>
+                                    </ul>
+                                </div>
+
+                                <div class="project-button">
+                                    <a href="contact-us.php" class="theme-button style-1">
+                                        <span data-text="Book Consultation">Book Consultation</span>
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="project-item sticky">
                             <div class="project-image order-lg-2">
                                 <a href="javascript:void(0)">
@@ -145,23 +227,23 @@ ob_start();
                             <div class="project-content">
                                 <h2>
                                     <a href="growth-market-expansion.php">
-                                        Growth & Market Expansion
+                                        Startups & High-Growth Companies
                                     </a>
                                 </h2>
 
                                 <p class="desc">
-                                    We partner with organizations seeking growth by providing market research, expansion
-                                    planning, operational readiness, and execution support that helps businesses
-                                    confidently
-                                    enter new markets, strengthen operations, and achieve sustainable long-term success.
+                                    We support startups and high-growth companies by building dedicated remote
+                                    teams, optimizing business operations, improving execution capabilities, and
+                                    providing strategic consulting that enables sustainable scaling and long-term
+                                    business success.
                                 </p>
 
                                 <div class="check-list mb-30">
                                     <ul>
-                                        <li>Market research & analysis</li>
-                                        <li>Expansion planning support</li>
-                                        <li>Operational readiness</li>
-                                        <li>Business execution strategy</li>
+                                        <li>Dedicated remote teams</li>
+                                        <li>Business operations support</li>
+                                        <li>Growth strategy execution</li>
+                                        <li>Scalable business solutions</li>
                                     </ul>
                                 </div>
 
