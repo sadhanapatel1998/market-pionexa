@@ -364,13 +364,12 @@ ob_start();
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-
-                        <!-- Section Title -->
-                        <div class="section-title wow fadeInUp" data-wow-delay=".2s">
-                            <span class="sub-title">Why Market Pionexa</span>
-                            <h2>Why Leading Organizations <span>Choose Us</span></h2>
+                        <div class="why-left-sticky">
+                            <div class="section-title wow fadeInUp" data-wow-delay=".2s">
+                                <span class="sub-title">Why Market Pionexa</span>
+                                <h2>Why Leading Organizations <span>Choose Us</span></h2>
+                            </div>
                         </div>
-
                     </div>
 
                     <div class="col-lg-8">
@@ -564,6 +563,51 @@ ob_start();
         </div>
     </section>
     <!-- how works section end -->
+
+    <!-- counter section start -->
+    <section class="counter-section-1 pb-100 md-pb-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="counter-list grid-4">
+                        <div class="counter-item wow fadeInUp" data-wow-delay=".2s">
+                            <div class="counter-content">
+                                <div class="counter-text">
+                                    <span class="counter-value" data-stop="3" data-speed="3000">0</span>+
+                                </div>
+                                <h2 class="counter-title">Core Industries</h2>
+                            </div>
+                        </div>
+                        <div class="counter-item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="counter-content">
+                                <div class="counter-text">
+                                    <span class="counter-value" data-stop="8" data-speed="3000">0</span>+
+                                </div>
+                                <h2 class="counter-title">Consulting Services</h2>
+                            </div>
+                        </div>
+                        <div class="counter-item wow fadeInUp" data-wow-delay=".4s">
+                            <div class="counter-content">
+                                <div class="counter-text">
+                                    <span class="counter-value" data-stop="100" data-speed="3000">0</span>%
+                                </div>
+                                <h2 class="counter-title">Execution-Focused Approach</h2>
+                            </div>
+                        </div>
+
+                        <div class="counter-item wow fadeInUp" data-wow-delay=".5s">
+                            <div class="counter-content">
+                                <div class="counter-text">
+                                    <span class="counter-value" data-stop="24" data-speed="3000">0</span>/7
+                                </div>
+                                <h2 class="counter-title">Strategic Support</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div class="marquee-ticker-section">
         <div class="marquee-ticker-box">

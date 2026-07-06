@@ -82,14 +82,14 @@
                                             <h3 class="footer-widget-title line-anime"> Services</h3>
                                             <div class="widget-link">
                                                 <ul class="link">
-                                                    <li><a href="dedicated-remote-teams.php">Dedicated Remote Teams</a>
+                                                    <li><a href="dedicated-remote-teams.php"><i class="fa-solid fa-chevron-right"></i>Dedicated Remote Teams </a>
                                                     </li>
-                                                    <li><a href="business-operations.php">Business Operations</a></li>
-                                                    <li><a href="market-research-business-intelligence.php">Market
+                                                    <li><a href="business-operations.php"><i class="fa-solid fa-chevron-right"></i>Business Operations</a></li>
+                                                    <li><a href="market-research-business-intelligence.php"><i class="fa-solid fa-chevron-right"></i>Market
                                                             Research & Business Intelligence</a></li>
-                                                    <li><a href="strategic-business-consulting.php">Strategic Business
+                                                    <li><a href="strategic-business-consulting.php"><i class="fa-solid fa-chevron-right"></i>Strategic Business
                                                             Consulting</a></li>
-                                                    <li><a href="sales-operations.php">Sales Operations</a></li>
+                                                    <li><a href="sales-operations.php"><i class="fa-solid fa-chevron-right"></i>Sales Operations</a></li>
                                                 </ul>
                                             </div>
                                         </div>

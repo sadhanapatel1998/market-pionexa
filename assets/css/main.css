@@ -3779,7 +3779,7 @@ button:focus {
 }
 
 .pt-100 {
-  padding-top: 100px !important;
+  padding-top: 80px !important;
 }
 
 .pt-105 {
@@ -3935,7 +3935,7 @@ button:focus {
 }
 
 .pb-100 {
-  padding-bottom: 100px !important;
+  padding-bottom: 80px !important;
 }
 
 .pb-105 {
@@ -4403,7 +4403,7 @@ button:focus {
 }
 
 .mt-100 {
-  margin-top: 100px !important;
+  margin-top: 80px !important;
 }
 
 .mt-105 {
@@ -4591,7 +4591,7 @@ button:focus {
 }
 
 .mb-100 {
-  margin-bottom: 100px !important;
+  margin-bottom: 80px !important;
 }
 
 .mb-105 {
@@ -5020,7 +5020,7 @@ button:focus {
   }
 
   .md-pt-100 {
-    padding-top: 100px !important;
+    padding-top: 0px !important;
   }
 
   .md-pt-90 {
@@ -12847,6 +12847,7 @@ button:focus {
 @media (max-width: 991px) {
   .breadcrumb-section .breadcrumb-content .breadcrumb-title h1 {
     margin-bottom: 10px;
+    font-size: 26px !important;
   }
 }
 
@@ -14041,8 +14042,16 @@ button:focus {
   .floating-btn span {
     display: none;
   }
+}
+@media (min-width: 992px) {
+
+    .why-left-sticky {
+        position: sticky;
+        top: 120px; /* Adjust according to your header height */
+    }
 
 }
+
 .form-loader{
     display:none;
 }

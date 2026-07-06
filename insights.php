@@ -131,6 +131,159 @@ ob_start();
     </section>
     <!-- Insights Categories Section End -->
 
+    <!-- testimonials section start -->
+    <section class="testimonials-section-1 mlr">
+        <div class="testimonials-wrapper pb-100 pt-100 md-pb-80">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center mb-30 wow fadeInUp" data-wow-delay=".2s">
+                            <span class="sub-title">Client Testimonials</span>
+                            <h2>What Our <span>Clients Say</span></h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
+
+                        <div class="swiper testimonials-slider-three">
+
+                            <div class="swiper-wrapper">
+
+                                <!-- Testimonial 1 -->
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item right-after">
+                                        <div class="testimonials-meta">
+                                            <div class="testimonials-quote">
+                                                <i class="fa-solid fa-quote-left"></i>
+                                            </div>
+                                        </div>
+
+                                        <div class="testimonials-content">
+                                            <p>
+                                                Market Pionexa demonstrated a structured approach throughout
+                                                the engagement and helped streamline key operational
+                                                processes with practical execution support.
+                                            </p>
+                                        </div>
+
+                                        <div class="testimonials-author-box">
+                                            <div class="testimonials-author">
+                                                <div class="testimonials-author-content">
+                                                    <h2>Healthcare Client</h2>
+                                                    <p>Operations Team</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <!-- Testimonial 2 -->
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item right-after">
+                                        <div class="testimonials-meta">
+                                            <div class="testimonials-quote">
+                                                <i class="fa-solid fa-quote-left"></i>
+                                            </div>
+                                        </div>
+
+                                        <div class="testimonials-content">
+                                            <p>
+                                                Their collaborative approach and operational expertise
+                                                supported our business objectives while improving customer
+                                                success and execution across multiple initiatives.
+                                            </p>
+                                        </div>
+
+                                        <div class="testimonials-author-box">
+                                            <div class="testimonials-author">
+                                                <div class="testimonials-author-content">
+                                                    <h2>Technology Client</h2>
+                                                    <p>SaaS Business</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <!-- Testimonial 3 -->
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item right-after">
+                                        <div class="testimonials-meta">
+                                            <div class="testimonials-quote">
+                                                <i class="fa-solid fa-quote-left"></i>
+                                            </div>
+                                        </div>
+
+                                        <div class="testimonials-content">
+                                            <p>
+                                                Their execution-focused consulting helped improve internal
+                                                workflows and provided valuable guidance for sustainable
+                                                business growth and expansion planning.
+                                            </p>
+                                        </div>
+
+                                        <div class="testimonials-author-box">
+                                            <div class="testimonials-author">
+                                                <div class="testimonials-author-content">
+                                                    <h2>Growth Business</h2>
+                                                    <p>Business Leadership</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <!-- Testimonial 4 -->
+                                <div class="swiper-slide">
+                                    <div class="testimonials-item right-after">
+                                        <div class="testimonials-meta">
+                                            <div class="testimonials-quote">
+                                                <i class="fa-solid fa-quote-left"></i>
+                                            </div>
+                                        </div>
+
+                                        <div class="testimonials-content">
+                                            <p>
+                                                We appreciated their disciplined execution, clear
+                                                communication, and practical recommendations that aligned
+                                                with our long-term operational priorities.
+                                            </p>
+                                        </div>
+
+                                        <div class="testimonials-author-box">
+                                            <div class="testimonials-author">
+                                                <div class="testimonials-author-content">
+                                                    <h2>Business Partner</h2>
+                                                    <p>Executive Team</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="swiper-actions ms-2 text-center">
+                                <div class="dot"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- testimonials section end -->
+
 </main>
 
 <?php
