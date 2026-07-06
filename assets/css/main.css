@@ -4702,6 +4702,9 @@ button:focus {
 .footer {
   position: relative;
 }
+.footer-logo img{
+  width:300px;
+}
 .footer .footer-widget-wrap .footer-widget {
   margin-bottom: 60px;
 }
@@ -10191,12 +10194,12 @@ button:focus {
 
 .image-generator-section .image-generator-wapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-gap: 30px;
 }
 @media (max-width: 1199px) {
   .image-generator-section .image-generator-wapper {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 @media (max-width: 767px) {

@@ -276,7 +276,7 @@ ob_start();
                             <h2><a href="operational-strategy.php">Operational Strategy</a></h2>
                             <div class="check-list">
                                 <p>Turn strategic plans into measurable actions with practical execution frameworks and
-                                    operational excellence.</p>
+                                    operational excellence for sustainable growth.</p>
                             </div>
                         </div>
                         <div class="services-image">

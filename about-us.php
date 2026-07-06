@@ -39,21 +39,34 @@ ob_start();
     <section class="about-section-2 pt-100 md-pt-80 pb-100 md-pb-80">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 pe-lg-5 pe-0">
                     <div class="about-left wow fadeInUp" data-wow-delay=".2s">
                         <div class="section-title">
                             <span class="sub-title">About Us</span>
-                            <h2>Transforming Strategy into <span>Measurable Business Outcomes.</span></h2>
+                            <h2>Transforming Vision Into <span>Global Execution</span></h2>
                             <p>
-                                Market Pionexa Consulting Pvt. Ltd. is a growth and execution-focused consulting firm
-                                that partners with healthcare, technology, and growth-stage organizations to turn
-                                strategic vision into real business results. We combine operational expertise, customer
-                                success, and execution excellence to help businesses scale with confidence and achieve
-                                sustainable growth.
+                                At Market Pionexa Consulting Pvt. Ltd., we help US and UK businesses build, manage, and
+                                scale dedicated remote teams from India while delivering strategic consulting,
+                                operational excellence, and business execution support.</p>
+
+                            We believe that business growth requires more than strategy—it requires the right
+                            people, efficient processes, and flawless execution. That's why we partner with
+                            organizations to build high-performing remote teams that seamlessly integrate into their
+                            operations, enabling them to reduce costs, improve efficiency, and scale with
+                            confidence.
                             </p>
+                            <p>From market research and operational management to customer success, payroll
+                                coordination, and India market-entry support, we provide end-to-end business solutions
+                                tailored to each client's unique goals. Our approach combines strategic insight with
+                                hands-on execution, allowing businesses to focus on innovation while we manage the
+                                operational complexities.</p>
+
+                            <p>At Market Pionexa Consulting, we don't just provide services—we become a trusted
+                                extension of your business, committed to delivering measurable outcomes, long-term
+                                value, and sustainable growth.</p>
                         </div>
 
-                        <div class="about-features-wappper">
+                        <!-- <div class="about-features-wappper">
 
                             <div class="about-features-item">
                                 <div class="about-features-icon">
@@ -86,7 +99,7 @@ ob_start();
                                 </div>
                             </div>
 
-                        </div>
+                        </div> -->
 
                         <div class="about-footer">
                             <div class="about-contact-box">
@@ -107,20 +120,17 @@ ob_start();
                             <div class="about-content-item mb-30">
                                 <p class="about-text">Our Mission</p>
                                 <p class="desc">
-                                    To bridge the gap between strategy and execution by delivering actionable insights,
-                                    operational expertise, and scalable business solutions. We empower healthcare,
-                                    technology, and growth-focused organizations to improve performance, strengthen
-                                    customer success, and achieve sustainable business growth with confidence.
+                                    To bridge the gap between strategy and execution by providing dedicated remote
+                                    teams, actionable insights, operational expertise, and scalable solutions that
+                                    enable US and UK businesses to grow with confidence.
                                 </p>
                             </div>
 
                             <div class="about-content-item">
                                 <p class="about-text">Our Vision</p>
                                 <p class="desc">
-                                    To be recognized as a trusted global consulting and execution partner, helping
-                                    organizations navigate complexity, unlock new opportunities, and create lasting
-                                    business impact through operational excellence, innovation, and disciplined
-                                    execution.
+                                    To be recognized globally as a catalyst for business growth, helping organizations
+                                    navigate complexity, unlock opportunities, and achieve lasting impact.
                                 </p>
                             </div>
                         </div>
@@ -135,16 +145,66 @@ ob_start();
             </div>
         </div>
     </section>
-    <!-- services section end -->
+    <!-- about section end -->
+
+    <!-- value section start -->
+    <section class="image-generator-section pt-0 md-pt-0 pb-100 md-pb-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center wow fadeInUp" data-wow-delay=".2s">
+                        <span class="sub-title">Our Values</span>
+                        <h2>Our Core <span>Values</span></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="image-generator-wapper">
+                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="image-generator-content">
+                                <h2>Integrity</h2>
+                                <p>We build every relationship on trust, transparency, and accountability.</p>
+                            </div>
+                        </div>
+                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="image-generator-content">
+                                <h2>Excellence</h2>
+                                <p>We are committed to delivering exceptional quality in every project and engagement.</p>
+                            </div>
+                        </div>
+                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="image-generator-content">
+                                <h2>Partnership</h2>
+                                <p>We work as an extension of our clients' teams, aligned with their goals and success.</p>
+                            </div>
+                        </div>
+                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="image-generator-content">
+                                <h2>Innovation</h2>
+                                <p>We embrace modern solutions and continuous improvement to drive better business outcomes.</p>
+                            </div>
+                        </div>
+                        <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
+                            <div class="image-generator-content">
+                                <h2>Execution</h2>
+                                <p>We turn strategies into measurable results through disciplined planning and operational excellence.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- value section end -->
 
     <!-- counter section start -->
-    <section class="counter-section-1 pb-100 md-pb-80">
+    <!-- <section class="counter-section-1 pb-100 md-pb-80">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="counter-list grid-4">
-
-                        <!-- Counter Item -->
                         <div class="counter-item wow fadeInUp" data-wow-delay=".2s">
                             <div class="counter-content">
                                 <div class="counter-text">
@@ -153,8 +213,6 @@ ob_start();
                                 <h2 class="counter-title">Core Industries</h2>
                             </div>
                         </div>
-
-                        <!-- Counter Item -->
                         <div class="counter-item wow fadeInUp" data-wow-delay=".3s">
                             <div class="counter-content">
                                 <div class="counter-text">
@@ -163,8 +221,6 @@ ob_start();
                                 <h2 class="counter-title">Consulting Services</h2>
                             </div>
                         </div>
-
-                        <!-- Counter Item -->
                         <div class="counter-item wow fadeInUp" data-wow-delay=".4s">
                             <div class="counter-content">
                                 <div class="counter-text">
@@ -174,7 +230,6 @@ ob_start();
                             </div>
                         </div>
 
-                        <!-- Counter Item -->
                         <div class="counter-item wow fadeInUp" data-wow-delay=".5s">
                             <div class="counter-content">
                                 <div class="counter-text">
@@ -183,12 +238,11 @@ ob_start();
                                 <h2 class="counter-title">Strategic Support</h2>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- counter section end -->
 
     <div class="marquee-ticker-section">
