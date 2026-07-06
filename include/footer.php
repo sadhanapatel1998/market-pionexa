@@ -58,15 +58,19 @@
                                                             Us</a>
                                                     </li>
                                                     <li>
-                                                        <a href="industries.php"><i class="fa-solid fa-chevron-right"></i>
-                                                            Industries</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href=""><i class="fa-solid fa-chevron-right"></i> Insights</a>
+                                                        <a class="nav-link" href="industries.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>
+                                                            Industries we serve
+                                                        </a>
                                                     </li>
                                                     <li>
                                                         <a href="insights.php"><i class="fa-solid fa-chevron-right"></i>
-                                                            Contact</a>
+                                                            Insights</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="contact-us.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>
+                                                            Contact Us</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -78,30 +82,14 @@
                                             <h3 class="footer-widget-title line-anime"> Services</h3>
                                             <div class="widget-link">
                                                 <ul class="link">
-                                                    <li><a href="operations-excellence.php"><i
-                                                                class="fa-solid fa-chevron-right"></i>
-                                                            Operations Excellence</a>
+                                                    <li><a href="dedicated-remote-teams.php">Dedicated Remote Teams</a>
                                                     </li>
-                                                    <li>
-                                                        <a href="customer-success.php"><i
-                                                                class="fa-solid fa-chevron-right"></i> Customer Success
-                                                            & Support</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="business-growth.php"><i
-                                                                class="fa-solid fa-chevron-right"></i>
-                                                            Operational Strategy</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="market-research.php"><i
-                                                                class="fa-solid fa-chevron-right"></i> Market
-                                                            Research</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="process-optimization.php"><i
-                                                                class="fa-solid fa-chevron-right"></i> Process
-                                                            Optimization</a>
-                                                    </li>
+                                                    <li><a href="business-operations.php">Business Operations</a></li>
+                                                    <li><a href="market-research-business-intelligence.php">Market
+                                                            Research & Business Intelligence</a></li>
+                                                    <li><a href="strategic-business-consulting.php">Strategic Business
+                                                            Consulting</a></li>
+                                                    <li><a href="sales-operations.php">Sales Operations</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,7 +128,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="copyright-text wow fadeInUp" data-wow-delay=".2s">
-                            <p class="m-0">&#169; Copyright 2026 MARKET PIONEXA CONSULTING PVT. LTD. All Rights Reserved
+                            <p class="m-0">
+                                &copy; <?php echo date("Y"); ?> MARKET PIONEXA CONSULTING PVT. LTD. All Rights Reserved.
+                                Managed by <a href="https://hoverbusinessservices.com" target="_blank"
+                                    rel="noopener noreferrer">Hover Business Services LLP</a>
                             </p>
                         </div>
                     </div>

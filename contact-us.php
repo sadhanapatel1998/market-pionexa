@@ -1,10 +1,16 @@
 <?php
 ob_start();
+
+session_start();
+
+$errors = isset($_SESSION['errors']) ? $_SESSION['errors'] : [];
+$old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
 ?>
 <!-- main start -->
 <main class="main">
     <!-- breadcrumb section start -->
-    <section class="breadcrumb-section pt-80 md-pt-60 pb-80 md-pb-60" data-img-src="assets/images/breadcrumb/breadcrumb-shape-line.png">
+    <section class="breadcrumb-section pt-80 md-pt-60 pb-80 md-pb-60"
+        data-img-src="assets/images/breadcrumb/breadcrumb-shape-line.png">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -23,8 +29,10 @@ ob_start();
             </div>
         </div>
         <div class="breadcrumb-shape">
-            <img class="breadcrumb-shado-top" src="assets/images/breadcrumb/breadcrumb-shado-top.png" alt="breadcrumb shape top">
-            <img class="breadcrumb-shado-bottom" src="assets/images/breadcrumb/breadcrumb-shado-bottom.png" alt="breadcrumb shape bottom">
+            <img class="breadcrumb-shado-top" src="assets/images/breadcrumb/breadcrumb-shado-top.png"
+                alt="breadcrumb shape top">
+            <img class="breadcrumb-shado-bottom" src="assets/images/breadcrumb/breadcrumb-shado-bottom.png"
+                alt="breadcrumb shape bottom">
         </div>
     </section>
     <!-- breadcrumb section end -->
@@ -37,15 +45,11 @@ ob_start();
                     <div class="contact-wapper">
                         <div class="row justify-content-between">
                             <div class="col-lg-4">
-                                <!-- section title start -->
                                 <div class="section-title wow fadeInUp" data-wow-delay=".2s">
                                     <span class="sub-title">Contact Me</span>
                                     <h2>Stay connect with us today</h2>
                                 </div>
-                                <!-- section title end -->
-                                <!-- contact item wrapper start -->
                                 <div class="contact-item-wrapper wow fadeInUp" data-wow-delay=".3s">
-                                    <!-- contact items start -->
                                     <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-phone-volume"></i></div>
                                         <div class="contact-content">
@@ -53,8 +57,6 @@ ob_start();
                                             <h3>+91 8527976330</h3>
                                         </div>
                                     </div>
-                                    <!-- contact items end -->
-                                    <!-- contact items start -->
                                     <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-envelope"></i></div>
                                         <div class="contact-content">
@@ -62,7 +64,6 @@ ob_start();
                                             <h3>contact@marketpionexa.com</h3>
                                         </div>
                                     </div>
-                                    <!-- contact items start -->
                                     <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
                                         <div class="contact-content">
@@ -70,45 +71,47 @@ ob_start();
                                             <h3>NSP, Pitampura New Delhi</h3>
                                         </div>
                                     </div>
-                                    <!-- contact items end -->
                                 </div>
-                                <!-- contact item wrapper end -->
-                                <!-- contact social links start -->
                                 <div class="contact-social-links">
                                     <ul class="social-icon">
                                         <li>
-                                            <a href="#" aria-label="instagram"><i class="fa-brands fa-instagram"></i></a>
+                                            <a href="#" aria-label="instagram"><i
+                                                    class="fa-brands fa-instagram"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                                            <a href="#" aria-label="facebook"><i
+                                                    class="fa-brands fa-facebook-f"></i></a>
                                         </li>
                                         <li>
                                             <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#" aria-label="pinterest"><i class="fa-brands fa-pinterest-p"></i></a>
+                                            <a href="#" aria-label="pinterest"><i
+                                                    class="fa-brands fa-pinterest-p"></i></a>
                                         </li>
                                     </ul>
                                 </div>
-                                <!-- contact social links end -->
                             </div>
                             <div class="col-lg-7">
-                                <!-- contact form box start -->
                                 <div class="contact-form-box">
                                     <div class="section-title">
                                         <span class="sub-title">Send us email</span>
                                         <h2>Feel free to write</h2>
                                     </div>
-                                    <!-- default-form start -->
                                     <div class="default-form contact-form">
-                                        <form action="contact.php" method="POST" id="contact" novalidate="novalidate">
+                                        <form action="mail" method="POST" novalidate="novalidate">
                                             <div class="row">
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class="form-group">
                                                         <div class="field-inner">
                                                             <label for="name">Name*</label>
-                                                            <input id="name" class="form-control" name="name" type="text" autocomplete="off" placeholder="Ex. name" required="required">
-                                                            <span class="error" id="name-error"></span>
+                                                            <input id="name" class="form-control" name="name"
+                                                                type="text" autocomplete="off" placeholder="Ex. name"
+                                                                value="<?php echo isset($old['name']) ? $old['name'] : ''; ?>"
+                                                                required="required">
+                                                            <span class="text-danger">
+                                                                <?php echo isset($errors['name']) ? $errors['name'] : ''; ?>
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -116,8 +119,14 @@ ob_start();
                                                     <div class="form-group">
                                                         <div class="field-inner">
                                                             <label for="email">Email*</label>
-                                                            <input id="email" class="form-control" name="email" type="email" autocomplete="off" placeholder="Ex. info@example.com" required="required">
-                                                            <span class="error" id="email-error"></span>
+                                                            <input id="email" class="form-control" name="email"
+                                                                type="email" autocomplete="off"
+                                                                placeholder="Ex. info@example.com"
+                                                                value="<?php echo isset($old['email']) ? $old['email'] : ''; ?>"
+                                                                required="required">
+                                                            <span class="text-danger">
+                                                                <?php echo isset($errors['email']) ? $errors['email'] : ''; ?>
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -125,8 +134,14 @@ ob_start();
                                                     <div class="form-group">
                                                         <div class="field-inner">
                                                             <label for="phone">Phone Number*</label>
-                                                            <input id="phone" class="form-control" name="phone" type="text" autocomplete="off" placeholder="Ex. 9876543210" required="required">
-                                                            <span class="error" id="phone-error"></span>
+                                                            <input id="phone" class="form-control" name="phone"
+                                                                type="text" autocomplete="off"
+                                                                placeholder="Ex. 9876543210"
+                                                                value="<?php echo isset($old['phone']) ? $old['phone'] : ''; ?>"
+                                                                required="required">
+                                                            <span class="text-danger">
+                                                                <?php echo isset($errors['phone']) ? $errors['phone'] : ''; ?>
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -134,8 +149,14 @@ ob_start();
                                                     <div class="form-group">
                                                         <div class="field-inner">
                                                             <label for="subject">Subject*</label>
-                                                            <input id="subject" class="form-control" name="subject" type="text" autocomplete="off" placeholder="Ex. Subject Here" required="required">
-                                                            <span class="error" id="subject-error"></span>
+                                                            <input id="subject" class="form-control" name="subject"
+                                                                type="text" autocomplete="off"
+                                                                placeholder="Ex. Subject Here"
+                                                                value="<?php echo isset($old['subject']) ? $old['subject'] : ''; ?>"
+                                                                required="required">
+                                                            <span class="text-danger">
+                                                                <?php echo isset($errors['subject']) ? $errors['subject'] : ''; ?>
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -143,26 +164,38 @@ ob_start();
                                                     <div class="form-group">
                                                         <div class="field-inner">
                                                             <label for="message">Message*</label>
-                                                            <textarea id="message" class="form-control" name="message" autocomplete="off" placeholder="Ex. type messege" required="required"></textarea>
-                                                            <span class="error" id="message-error"></span>
+                                                            <textarea id="message" class="form-control" name="message"
+                                                                autocomplete="off" placeholder="Ex. type messege"
+                                                                required="required"><?php echo isset($old['message']) ? $old['message'] : ''; ?></textarea>
+                                                            <span class="text-danger">
+                                                                <?php echo isset($errors['message']) ? $errors['message'] : ''; ?>
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-12">
                                                     <div class="contact-btn-wapper mt-10">
-                                                        <button type="submit" class="theme-button style-1" data-text="Send Message">
+                                                        <button type="submit" class="theme-button style-1"
+                                                            data-text="Send Message">
                                                             <span data-text="Send Message">Send Message</span>
                                                             <i class="fa-solid fa-arrow-right"></i>
                                                         </button>
                                                     </div>
                                                 </div>
+                                                <div class="col-md-12 mt-3">
+                                                    <div class="form-loader text-success">
+                                                        <i class="fa fa-spinner fa-spin"></i>
+                                                        Please wait, submitting your enquiry...
+                                                    </div>
+                                                </div>
                                             </div>
-                                            <div class="ajax-response"></div>
                                         </form>
+                                        <?php
+                                        unset($_SESSION['errors']);
+                                        unset($_SESSION['old']);
+                                        ?>
                                     </div>
-                                    <!-- default-form end -->
                                 </div>
-                                <!-- contact form box end -->
                             </div>
                         </div>
                     </div>
@@ -170,25 +203,20 @@ ob_start();
             </div>
         </div>
     </section>
-    <!-- contact section end -->
-
-    <!-- Google Map start -->
     <div class="google-map">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12 p-0">
-                    <!-- google map iframe start -->
                     <div class="google-map-iframe">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.7859155738292!2d77.14808388885498!3d28.69605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d023243f9fe8b%3A0xdbcb89821a18cfc4!2sNetaji%20Subhash%20Place!5e0!3m2!1sen!2sin!4v1783153794857!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.7859155738292!2d77.14808388885498!3d28.69605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d023243f9fe8b%3A0xdbcb89821a18cfc4!2sNetaji%20Subhash%20Place!5e0!3m2!1sen!2sin!4v1783153794857!5m2!1sen!2sin"
+                            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="strict-origin-when-cross-origin"></iframe>
                     </div>
-                    <!-- google map iframe end -->
                 </div>
             </div>
         </div>
     </div>
-    <!-- Google Map end -->
-
-
 </main>
 
 <?php

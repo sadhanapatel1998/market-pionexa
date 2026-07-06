@@ -184,11 +184,11 @@ JS TABLE OF CONTENTS
             spaceBetween: 20,
           },
           767: {
-            slidesPerView: 1,
+            slidesPerView: 2,
             spaceBetween: 20,
           },
           567: {
-            slidesPerView: 1,
+            slidesPerView: 2,
             spaceBetween: 20,
           },
           360: {

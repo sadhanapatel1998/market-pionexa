@@ -210,47 +210,6 @@ ob_start();
                                 <div class="dot"></div>
                             </div>
                         </div>
-
-                        <!-- <div class="micon-items right-after wow fadeInUp" data-wow-delay=".3s">
-                            <div class="micon-content">
-                                <h2>Healthcare & HealthTech</h2>
-                                <p>Supporting healthcare organizations and digital health companies through operational
-                                    excellence, customer success, and remote workforce solutions.</p>
-                            </div>
-                        </div>
-
-                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".4s">
-                            <div class="micon-content">
-                                <h2>Technology</h2>
-                                <p>Helping technology and SaaS businesses scale through customer success operations,
-                                    process improvement, operational support, and business execution services.</p>
-                            </div>
-                        </div>
-
-                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".5s">
-                            <div class="micon-content">
-                                <h2>Financial Services</h2>
-                                <p>Supporting financial organizations with operational excellence, market research,
-                                    business consulting, and execution support.</p>
-                            </div>
-                        </div>
-
-                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".6s">
-                            <div class="micon-content">
-                                <h2>E-commerce & Consumer Brands</h2>
-                                <p>Helping consumer brands improve sales operations, customer support, business
-                                    processes, and scalable remote team management.</p>
-                            </div>
-                        </div>
-
-                        <div class="micon-items right-after wow fadeInUp" data-wow-delay=".7s">
-                            <div class="micon-content">
-                                <h2>Startups & High-Growth Companies</h2>
-                                <p>Helping startups build remote teams, streamline operations, accelerate growth, and
-                                    execute scalable business strategies.</p>
-                            </div>
-                        </div> -->
-
                     </div>
                 </div>
             </div>
@@ -271,108 +230,129 @@ ob_start();
                 </div>
             </div>
             <div class="row">
+
                 <div class="col-lg-4">
                     <div class="services-item right-after wow fadeInUp" data-wow-delay=".3s">
                         <div class="services-content">
-                            <h2><a href="operations-excellence.php">Operations<br> Excellence</a></h2>
+                            <h2><a href="dedicated-remote-teams.php">Dedicated Remote Teams</a></h2>
                             <div class="check-list">
-                                <p>Improve operational performance through efficient processes, structured workflows,
-                                    and execution-focused business support.</p>
+                                <p>Build high-performing remote teams from India that seamlessly integrate into your
+                                    business and support long-term operational growth.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/1.png" alt="services one">
+                                <img src="assets/images/services/1.png" alt="Dedicated Remote Teams">
                             </figure>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4">
                     <div class="services-item right-after wow fadeInUp" data-wow-delay=".4s">
                         <div class="services-content">
-                            <h2><a href="customer-success.php">Customer Success & Support</a></h2>
+                            <h2><a href="business-operations.php">Business Operations</a></h2>
                             <div class="check-list">
-                                <p>Deliver exceptional customer experiences with scalable support operations that
-                                    improve satisfaction and long-term retention.</p>
+                                <p>Improve operational performance through efficient processes, structured workflows,
+                                    and execution-focused business management solutions.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/2.png" alt="services two">
+                                <img src="assets/images/services/2.png" alt="Business Operations">
                             </figure>
                         </div>
                     </div>
-                    <!-- services item end -->
                 </div>
+
                 <div class="col-lg-4">
-                    <!-- services item start -->
                     <div class="services-item right-after wow fadeInUp" data-wow-delay=".5s">
                         <div class="services-content">
-                            <h2><a href="business-growth.php">Business Growth & Expansion</a></h2>
+                            <h2><a href="market-research-business-intelligence.php">Market Research & Business
+                                    Intelligence</a></h2>
                             <div class="check-list">
-                                <p>Support sustainable growth through scalable business strategies, expansion planning,
-                                    and execution-driven operational support.</p>
+                                <p>Gain valuable market insights through research, competitive intelligence, and
+                                    data-driven analysis that supports strategic business decisions.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/3.png" alt="services three">
+                                <img src="assets/images/services/3.png" alt="Market Research">
                             </figure>
                         </div>
                     </div>
-                    <!-- services item end -->
                 </div>
+
                 <div class="col-lg-4">
-                    <!-- services item start -->
                     <div class="services-item right-after wow fadeInUp" data-wow-delay=".8s">
                         <div class="services-content">
-                            <h2><a href="market-research.php">Market Research</a></h2>
+                            <h2><a href="strategic-business-consulting.php">Strategic Business Consulting</a></h2>
                             <div class="check-list">
-                                <p>Gain valuable market insights through research, competitive analysis, and data-driven
-                                    recommendations for informed decisions.</p>
+                                <p>Develop practical business strategies that improve operational efficiency, strengthen
+                                    execution, and create sustainable competitive advantage.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/4.png" alt="services six">
+                                <img src="assets/images/services/4.png" alt="Strategic Business Consulting">
                             </figure>
                         </div>
                     </div>
-                    <!-- services item end -->
                 </div>
+
                 <div class="col-lg-4">
-                    <!-- services item start -->
                     <div class="services-item right-after wow fadeInUp" data-wow-delay=".9s">
                         <div class="services-content">
-                            <h2><a href="process-optimization.php">Process Optimization</a></h2>
+                            <h2><a href="global-expansion-india-market-entry.php">Global Expansion & India Market
+                                    Entry</a></h2>
                             <div class="check-list">
-                                <p>Streamline workflows and optimize business processes to improve efficiency,
-                                    productivity, and operational performance.</p>
+                                <p>Expand into India with confidence through market-entry planning, operational setup,
+                                    and end-to-end business execution support.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/5.png" alt="services siven">
+                                <img src="assets/images/services/5.png" alt="Global Expansion">
                             </figure>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4">
                     <div class="services-item right-after wow fadeInUp" data-wow-delay="1.1s">
                         <div class="services-content">
-                            <h2><a href="operational-strategy.php">Operational Strategy</a></h2>
+                            <h2><a href="sales-operations.php">Sales Operations</a></h2>
                             <div class="check-list">
-                                <p>Turn strategic plans into measurable actions with practical execution frameworks and
-                                    operational excellence for sustainable growth.</p>
+                                <p>Strengthen sales performance through structured operations, streamlined processes,
+                                    performance tracking, and execution-driven business support.</p>
                             </div>
                         </div>
                         <div class="services-image">
                             <figure>
-                                <img src="assets/images/services/6.png" alt="services eight">
+                                <img src="assets/images/services/6.png" alt="Sales Operations">
                             </figure>
                         </div>
                     </div>
                 </div>
+
+                <!-- <div class="col-lg-4">
+                    <div class="services-item right-after wow fadeInUp" data-wow-delay="1.2s">
+                        <div class="services-content">
+                            <h2><a href="customer-success-workforce-support.php">Customer Success & Workforce
+                                    Support</a></h2>
+                            <div class="check-list">
+                                <p>Deliver exceptional customer experiences through scalable support operations,
+                                    workforce solutions, and long-term customer success management.</p>
+                            </div>
+                        </div>
+                        <div class="services-image">
+                            <figure>
+                                <img src="assets/images/services/7.png" alt="Customer Success">
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+
             </div>
         </div>
     </section>

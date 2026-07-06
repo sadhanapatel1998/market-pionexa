@@ -1,3 +1,4 @@
+<?php include('seo.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,11 +7,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="pus_infotech">
-    <meta name="description" content="HTML Template">
-    <meta name="keywords" content="Html Template">
-    <!-- page title -->
-    <title>Market Pionexa Consulting Pvt. Ltd. | Transforming Vision Into Global Execution</title>
+
+    <title><?= $pageMeta['title']; ?></title>
+    <meta name="description" content="<?= $pageMeta['description']; ?>">
+    <meta name="keywords" content="<?= $pageMeta['keywords']; ?>">
+    <meta name="robots" content="<?= $pageMeta['robots']; ?>">
+    <link rel="canonical" href="<?= $pageMeta['canonical']; ?>">
     <!-- favicon icon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
@@ -38,14 +40,22 @@
         <!-- preloader start -->
         <!-- <div class="preloader">
             <div class="preloader-icon">
-                <img src="assets/images/loader.svg" alt="loader image">
+                <img src="assets/images/loader.png" alt="loader image">
             </div>
             <div class="preloader-text">
+                <p>M</p>
+                <p>a</p>
+                <p>r</p>
+                <p>k</p>
+                <p>e</p>
+                <p>t</p>
+                <p>&nbsp;</p>
                 <p>P</p>
+                <p>i</p>
+                <p>o</p>
+                <p>n</p>
                 <p>e</p>
                 <p>x</p>
-                <p>o</p>
-                <p>r</p>
                 <p>a</p>
             </div>
         </div> -->
@@ -69,6 +79,18 @@
 
     </div>
     <!-- page wrapper end -->
+
+
+    <div class="floating-contact">
+        <a href="tel:+918527976330" class="floating-btn call-btn">
+            <span>Call Us</span>
+            <i class="fa-solid fa-phone"></i>
+        </a>
+        <a href="https://wa.me/9185279763309" target="_blank" class="floating-btn whatsapp-btn">
+            <span>WhatsApp</span>
+            <i class="fa-brands fa-whatsapp"></i>
+        </a>
+    </div>
 
     <!-- jQuery -->
     <script src="assets/js/jquery-3.7.1.min.js"></script>
@@ -94,6 +116,24 @@
     <script src="assets/js/jquery.syotimer.min.js"></script>
     <!-- main Js -->
     <script src="assets/js/main.js"></script>
+    <script>
+        document.querySelectorAll("form").forEach(function (form) {
+            form.addEventListener("submit", function () {
+
+                const button = form.querySelector("button[type='submit']");
+                const loader = form.querySelector(".form-loader");
+
+                if (button) {
+                    button.disabled = true;
+                    button.innerHTML = "Processing...";
+                }
+
+                if (loader) {
+                    loader.style.display = "block";
+                }
+            });
+        });
+    </script>
 </body>
 
 </html>

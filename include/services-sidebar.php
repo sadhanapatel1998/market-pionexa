@@ -41,9 +41,7 @@
         ?>
         <div class="widget-content">
             <ul class="category-list">
-
                 <?php foreach ($services as $service): ?>
-
                     <li>
                         <a href="<?= $service['link']; ?>"
                             class="<?= ($current_page == $service['link']) ? 'active' : ''; ?>">
@@ -55,12 +53,9 @@
                             <span>
                                 <i class="fa-solid fa-arrow-right"></i>
                             </span>
-
                         </a>
                     </li>
-
                 <?php endforeach; ?>
-
             </ul>
         </div>
     </div>
@@ -72,48 +67,35 @@
         </div>
 
         <div class="widget-content">
-
             <p>
                 Connect with our team to discuss your business objectives,
                 operational challenges, or market expansion plans. We're here
                 to help you move from strategy to execution.
             </p>
-
             <div class="service-cta-item">
-
                 <div class="service-cta-list d-flex gap-3">
-
                     <div class="service-cta-icon d-flex align-items-center justify-content-center flex-shrink-0">
                         <i class="fa-solid fa-envelope"></i>
                     </div>
-
                     <div class="service-cta-content flex-grow-1">
                         <p>Email Us</p>
                         <a href="mailto:contact@marketpionexa.com">
                             contact@marketpionexa.com
                         </a>
                     </div>
-
                 </div>
-
                 <div class="service-cta-list d-flex gap-3">
-
                     <div class="service-cta-icon d-flex align-items-center justify-content-center flex-shrink-0">
                         <i class="fa-solid fa-calendar-check"></i>
                     </div>
-
                     <div class="service-cta-content flex-grow-1">
                         <p>Consultation</p>
-                        <a href="contact.php">
+                        <a href="contact-us.php">
                             Book a Consultation
                         </a>
                     </div>
-
                 </div>
-
             </div>
-
         </div>
     </div>
-
 </div>
