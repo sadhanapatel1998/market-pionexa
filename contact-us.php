@@ -75,20 +75,16 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                                 <div class="contact-social-links">
                                     <ul class="social-icon">
                                         <li>
-                                            <a href="#" aria-label="instagram"><i
+                                            <a href="https://www.instagram.com/marketpionexa/" target="_blank" aria-label="instagram"><i
                                                     class="fa-brands fa-instagram"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#" aria-label="facebook"><i
+                                            <a href="https://www.facebook.com/Marketpionexaconsulting" target="_blank" aria-label="facebook"><i
                                                     class="fa-brands fa-facebook-f"></i></a>
                                         </li>
-                                        <li>
-                                            <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" aria-label="pinterest"><i
-                                                    class="fa-brands fa-pinterest-p"></i></a>
-                                        </li>
+                                        <!-- <li>
+                                            <a href="#" target="_blank" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>

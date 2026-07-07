@@ -66,17 +66,19 @@
                 <div class="widget-content">
                     <ul class="social-icon">
                         <li>
-                            <a href="#" aria-label="instagram"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/marketpionexa/" target="_blank" aria-label="instagram"><i
+                                    class="fa-brands fa-instagram"></i></a>
                         </li>
                         <li>
-                            <a href="#" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/Marketpionexaconsulting" target="_blank"
+                                aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
                         </li>
                         <li>
                             <a href="#" aria-label="pinterest"><i class="fa-brands fa-pinterest-p"></i></a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -121,11 +123,15 @@
                                             <ul class="submenu">
                                                 <li><a href="dedicated-remote-teams.php">Dedicated Remote Teams</a></li>
                                                 <li><a href="business-operations.php">Business Operations</a></li>
-                                                <li><a href="market-research-business-intelligence.php">Market Research & Business Intelligence</a></li>
-                                                <li><a href="strategic-business-consulting.php">Strategic Business Consulting</a></li>
-                                                <li><a href="global-expansion-india-market-entry.php">Global Expansion & India Market Entry</a></li>
+                                                <li><a href="market-research-business-intelligence.php">Market Research
+                                                        & Business Intelligence</a></li>
+                                                <li><a href="strategic-business-consulting.php">Strategic Business
+                                                        Consulting</a></li>
+                                                <li><a href="global-expansion-india-market-entry.php">Global Expansion &
+                                                        India Market Entry</a></li>
                                                 <li><a href="sales-operations.php">Sales Operations</a></li>
-                                                <li><a href="customer-success-workforce-support.php">Customer Success & Workforce Support</a></li>
+                                                <li><a href="customer-success-workforce-support.php">Customer Success &
+                                                        Workforce Support</a></li>
                                             </ul>
                                         </li>
 
