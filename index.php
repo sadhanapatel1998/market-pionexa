@@ -907,7 +907,7 @@ ob_start();
     <!-- faq section end -->
 
     <!-- testimonials section start -->
-    <section class="testimonials-section-1 mlr">
+    <!-- <section class="testimonials-section-1 mlr">
         <div class="testimonials-wrapper pb-100 pt-100 md-pb-80">
             <div class="container">
 
@@ -926,8 +926,6 @@ ob_start();
                         <div class="swiper testimonials-slider-three">
 
                             <div class="swiper-wrapper">
-
-                                <!-- Testimonial 1 -->
                                 <div class="swiper-slide">
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
@@ -955,8 +953,6 @@ ob_start();
 
                                     </div>
                                 </div>
-
-                                <!-- Testimonial 2 -->
                                 <div class="swiper-slide">
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
@@ -984,8 +980,6 @@ ob_start();
 
                                     </div>
                                 </div>
-
-                                <!-- Testimonial 3 -->
                                 <div class="swiper-slide">
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
@@ -1013,8 +1007,6 @@ ob_start();
 
                                     </div>
                                 </div>
-
-                                <!-- Testimonial 4 -->
                                 <div class="swiper-slide">
                                     <div class="testimonials-item right-after">
                                         <div class="testimonials-meta">
@@ -1056,7 +1048,7 @@ ob_start();
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- testimonials section end -->
 
     <!-- blog section start -->

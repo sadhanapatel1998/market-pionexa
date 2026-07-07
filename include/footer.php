@@ -19,7 +19,7 @@
                             <div class="info">
                                 <a class="email text-decoration-underline"
                                     href="mailto:contact@marketpionexa.com">contact@marketpionexa.com</a>
-                                <a class="call" href="tel:8527976330">+91 8527976330</a>
+                                <!-- <a class="call" href="tel:8527976330">+91 8527976330</a> -->
                             </div>
                             <div class="footer-social-icon">
                                 <ul class="social-icon">
@@ -82,14 +82,25 @@
                                             <h3 class="footer-widget-title line-anime"> Services</h3>
                                             <div class="widget-link">
                                                 <ul class="link">
-                                                    <li><a href="dedicated-remote-teams.php"><i class="fa-solid fa-chevron-right"></i>Dedicated Remote Teams </a>
+                                                    <li><a href="dedicated-remote-teams.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Dedicated Remote
+                                                            Teams </a>
                                                     </li>
-                                                    <li><a href="business-operations.php"><i class="fa-solid fa-chevron-right"></i>Business Operations</a></li>
-                                                    <li><a href="market-research-business-intelligence.php"><i class="fa-solid fa-chevron-right"></i>Market
+                                                    <li><a href="business-operations.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Business
+                                                            Operations</a></li>
+                                                    <li><a href="market-research-business-intelligence.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Market
                                                             Research & Business Intelligence</a></li>
-                                                    <li><a href="strategic-business-consulting.php"><i class="fa-solid fa-chevron-right"></i>Strategic Business
+                                                    <li><a href="strategic-business-consulting.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Strategic Business
                                                             Consulting</a></li>
-                                                    <li><a href="sales-operations.php"><i class="fa-solid fa-chevron-right"></i>Sales Operations</a></li>
+                                                    <!-- <li><a href="global-expansion-india-market-entry.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Global
+                                                            Expansion & India Market Entry</a></li> -->
+                                                    <!-- <li><a href="sales-operations.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Sales
+                                                            Operations</a></li> -->
                                                 </ul>
                                             </div>
                                         </div>

@@ -50,13 +50,13 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                                     <h2>Stay connect with us today</h2>
                                 </div>
                                 <div class="contact-item-wrapper wow fadeInUp" data-wow-delay=".3s">
-                                    <div class="contact-item">
+                                    <!-- <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-phone-volume"></i></div>
                                         <div class="contact-content">
                                             <p>Call Now</p>
                                             <h3>+91 8527976330</h3>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-envelope"></i></div>
                                         <div class="contact-content">
@@ -209,7 +209,7 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                 <div class="col-lg-12 p-0">
                     <div class="google-map-iframe">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.7859155738292!2d77.14808388885498!3d28.69605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d023243f9fe8b%3A0xdbcb89821a18cfc4!2sNetaji%20Subhash%20Place!5e0!3m2!1sen!2sin!4v1783153794857!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224346.5400466074!2d77.04417434001834!3d28.527252739872903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1783403564934!5m2!1sen!2sin"
                             width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="strict-origin-when-cross-origin"></iframe>
                     </div>

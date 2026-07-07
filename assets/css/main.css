@@ -1299,7 +1299,7 @@ button:focus {
 }
 
 .offcanvas .offcanvas-header .offcanvas-logo {
-  width: 70%;
+    width: 50%;
   background: white;
   border-radius: 10px;
   padding: 10px;
@@ -5526,7 +5526,7 @@ button:focus {
 }
 
 .footer-logo img {
-  width: 300px;
+    width: 200px;
 }
 
 .footer .footer-widget-wrap .footer-widget {
@@ -6715,9 +6715,9 @@ button:focus {
 }
 
 .header-3 .header-lower .header-content .logo-box .logo img {
-  max-width: 230px;
+    max-width: 133px;
+    margin-left: 20px;
 }
-
 .header-3 .header-lower .header-content .header-navigation #mobile-menu {
   background: transparent;
   padding: 0;
@@ -6748,11 +6748,17 @@ button:focus {
   transition: 500ms all ease;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 767px) {
   .header-3 .header-lower .header-content .header-right .header-search {
     display: none;
   }
+  .header-3 .header-lower .header-content .logo-box .logo img {
+    max-width: 100px;
+    margin-left: 0px;
 }
+}
+
+
 
 .header-3 .header-lower .header-content .header-right .header-search span {
   display: block;

@@ -43,14 +43,14 @@
                                 <a href="mailto:contact@marketpionexa.com">contact@marketpionexa.com</a>
                             </div>
                         </div>
-                        <div class="offcanvas-cta-list">
+                        <!-- <div class="offcanvas-cta-list">
                             <div class="offcanvas-cta-icon">
                                 <i class="fa-solid fa-phone-volume"></i>
                             </div>
                             <div class="offcanvas-cta-content">
                                 <a href="tel:+91 8527976330">+91 8527976330</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

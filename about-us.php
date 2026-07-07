@@ -106,10 +106,10 @@ ob_start();
                                 <div class="icon-box">
                                     <i class="fa-solid fa-phone"></i>
                                 </div>
-                                <div class="about-contact-box-content">
+                                <!-- <div class="about-contact-box-content">
                                     <p>For Emergency, Call Now</p>
                                     <a href="tel:8527976330">+91 8527976330</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

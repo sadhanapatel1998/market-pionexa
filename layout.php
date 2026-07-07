@@ -32,13 +32,16 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <!-- style css -->
     <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@100..1000&family=Unbounded:wght@200..900&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <!-- page wrapper start -->
     <div class="page-wrapper">
         <!-- preloader start -->
-        <!-- <div class="preloader">
+       <div class="preloader">
             <div class="preloader-icon">
                 <img src="assets/images/loader.png" alt="loader image">
             </div>
@@ -58,7 +61,7 @@
                 <p>x</p>
                 <p>a</p>
             </div>
-        </div> -->
+        </div> 
         <!-- preloader end -->
 
         <!-- back to top start -->
@@ -66,12 +69,6 @@
             <i class="fa-solid fa-chevron-up"></i>
         </button>
         <!-- back to top end -->
-
-        <!-- mouse cursor start -->
-        <div class="mouse-cursor cursor-outer"></div>
-        <div class="mouse-cursor cursor-inner"></div>
-        <!-- mouse cursor end -->
-
 
         <?php require_once("include/header.php"); ?>
         <?= $content ?? ''; ?>
@@ -86,10 +83,10 @@
             <span>Call Us</span>
             <i class="fa-solid fa-phone"></i>
         </a>
-        <a href="https://wa.me/9185279763309" target="_blank" class="floating-btn whatsapp-btn">
+        <!-- <a href="https://wa.me/9185279763309" target="_blank" class="floating-btn whatsapp-btn">
             <span>WhatsApp</span>
             <i class="fa-brands fa-whatsapp"></i>
-        </a>
+        </a> -->
     </div>
 
     <!-- jQuery -->
