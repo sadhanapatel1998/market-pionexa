@@ -101,17 +101,17 @@ ob_start();
 
                         </div> -->
 
-                        <div class="about-footer">
+                        <!-- <div class="about-footer">
                             <div class="about-contact-box">
                                 <div class="icon-box">
                                     <i class="fa-solid fa-phone"></i>
                                 </div>
-                                <!-- <div class="about-contact-box-content">
+                                <div class="about-contact-box-content">
                                     <p>For Emergency, Call Now</p>
                                     <a href="tel:8527976330">+91 8527976330</a>
-                                </div> -->
+                                </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -170,25 +170,29 @@ ob_start();
                         <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
                             <div class="image-generator-content">
                                 <h2>Excellence</h2>
-                                <p>We are committed to delivering exceptional quality in every project and engagement.</p>
+                                <p>We are committed to delivering exceptional quality in every project and engagement.
+                                </p>
                             </div>
                         </div>
                         <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
                             <div class="image-generator-content">
                                 <h2>Partnership</h2>
-                                <p>We work as an extension of our clients' teams, aligned with their goals and success.</p>
+                                <p>We work as an extension of our clients' teams, aligned with their goals and success.
+                                </p>
                             </div>
                         </div>
                         <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
                             <div class="image-generator-content">
                                 <h2>Innovation</h2>
-                                <p>We embrace modern solutions and continuous improvement to drive better business outcomes.</p>
+                                <p>We embrace modern solutions and continuous improvement to drive better business
+                                    outcomes.</p>
                             </div>
                         </div>
                         <div class="image-generator-items right-after wow fadeInUp" data-wow-delay=".3s">
                             <div class="image-generator-content">
                                 <h2>Execution</h2>
-                                <p>We turn strategies into measurable results through disciplined planning and operational excellence.</p>
+                                <p>We turn strategies into measurable results through disciplined planning and
+                                    operational excellence.</p>
                             </div>
                         </div>
 
@@ -199,85 +203,114 @@ ob_start();
     </section>
     <!-- value section end -->
 
-
     <div class="marquee-ticker-section">
         <div class="marquee-ticker-box">
 
+            <!-- First Copy -->
             <div class="marquee-content">
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operations Excellence">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operations Excellence</p>
                 </div>
-                <p>Operations Excellence</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Customer Success</p>
                 </div>
-                <p>Customer Success</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Business Growth">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Business Growth</p>
                 </div>
-                <p>Business Growth</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Market Research">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Research</p>
                 </div>
-                <p>Market Research</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Process Optimization">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Process Optimization</p>
                 </div>
-                <p>Process Optimization</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operational Strategy">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operational Strategy</p>
                 </div>
-                <p>Operational Strategy</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Market Expansion">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Expansion</p>
                 </div>
-                <p>Market Expansion</p>
 
             </div>
 
+            <!-- Duplicate Copy -->
             <div class="marquee-content">
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Healthcare">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operations Excellence</p>
                 </div>
-                <p>Healthcare &amp; Health-Tech</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Technology">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Customer Success</p>
                 </div>
-                <p>Technology &amp; SaaS</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Business Support">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Business Growth</p>
                 </div>
-                <p>Business Support Services</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Execution">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Research</p>
                 </div>
-                <p>Execution-Focused Consulting</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Global Growth">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Process Optimization</p>
                 </div>
-                <p>Global Business Growth</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operational Excellence">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operational Strategy</p>
                 </div>
-                <p>Operational Excellence</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Expansion</p>
                 </div>
-                <p>Customer Success</p>
 
             </div>
 

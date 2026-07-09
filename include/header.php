@@ -73,12 +73,12 @@
                             <a href="https://www.facebook.com/Marketpionexaconsulting" target="_blank"
                                 aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                         </li>
-                        <!-- <li>
-                            <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
-                        </li>
                         <li>
-                            <a href="#" aria-label="pinterest"><i class="fa-brands fa-pinterest-p"></i></a>
-                        </li> -->
+                            <a href="#" target="_blank" aria-label="LinkedIn">
+                                <i class="fa-brands fa-linkedin-in"></i>
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
             </div>

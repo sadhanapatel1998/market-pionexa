@@ -209,14 +209,17 @@ JS TABLE OF CONTENTS
         loop: true,
         slidesPerView: 4,
         spaceBetween: 30,
+
         autoplay: {
           delay: 5500,
           disableOnInteraction: false,
         },
-        pagination: {
-          el: ".dot",
-          clickable: true,
+
+        navigation: {
+          nextEl: ".testimonial-next",
+          prevEl: ".testimonial-prev",
         },
+
         breakpoints: {
           0: {
             slidesPerView: 1,
@@ -236,7 +239,6 @@ JS TABLE OF CONTENTS
         },
       });
     }
-
     // ------------------------ 10. testimonials slider three
     if ($(".testimonials-slider-three").length > 0) {
       const testimonialsThreeSlider = new Swiper(".testimonials-slider-three", {

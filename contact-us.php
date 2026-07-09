@@ -68,23 +68,25 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                                         <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
                                         <div class="contact-content">
                                             <p>Address</p>
-                                            <h3>NSP, Pitampura New Delhi</h3>
+                                          <h3>New Delhi | Pune</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="contact-social-links">
                                     <ul class="social-icon">
                                         <li>
-                                            <a href="https://www.instagram.com/marketpionexa/" target="_blank" aria-label="instagram"><i
-                                                    class="fa-brands fa-instagram"></i></a>
+                                            <a href="https://www.instagram.com/marketpionexa/" target="_blank"
+                                                aria-label="instagram"><i class="fa-brands fa-instagram"></i></a>
                                         </li>
                                         <li>
-                                            <a href="https://www.facebook.com/Marketpionexaconsulting" target="_blank" aria-label="facebook"><i
-                                                    class="fa-brands fa-facebook-f"></i></a>
+                                            <a href="https://www.facebook.com/Marketpionexaconsulting" target="_blank"
+                                                aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                                         </li>
-                                        <!-- <li>
-                                            <a href="#" target="_blank" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
-                                        </li> -->
+                                        <li>
+                                            <a href="#" target="_blank" aria-label="LinkedIn">
+                                                <i class="fa-brands fa-linkedin-in"></i>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -199,7 +201,7 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
             </div>
         </div>
     </section>
-    <div class="google-map">
+    <!-- <div class="google-map">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12 p-0">
@@ -212,7 +214,7 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </main>
 
 <?php

@@ -173,10 +173,10 @@ ob_start();
                                     <div class="testimonials-item">
                                         <div class="micon-items right-after wow fadeInUp mb-0" data-wow-delay=".5s">
                                             <div class="micon-content">
-                                                <h2>Financial Services</h2>
-                                                <p>Supporting financial organizations with operational excellence,
-                                                    market research, business consulting, and execution support for
-                                                    sustainable growth.</p>
+                                                <h2>Fintech Services</h2>
+                                                <p>Empowering fintech companies with market research, business strategy,
+                                                    operational excellence, regulatory support, and scalable growth
+                                                    solutions.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -206,8 +206,14 @@ ob_start();
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-actions text-center mt-30">
-                                <div class="dot"></div>
+                            <div class="swiper-actions d-flex justify-content-center align-items-center gap-3 mt-30">
+                                <div class="testimonial-prev">
+                                    <i class="fa-solid fa-arrow-left"></i>
+                                </div>
+
+                                <div class="testimonial-next">
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -216,7 +222,6 @@ ob_start();
         </div>
     </section>
     <!-- micon section end -->
-
 
     <!-- services section start -->
     <section class="services-section pb-100 md-pb-80">
@@ -612,81 +617,111 @@ ob_start();
     <div class="marquee-ticker-section">
         <div class="marquee-ticker-box">
 
+            <!-- First Copy -->
             <div class="marquee-content">
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operations Excellence">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operations Excellence</p>
                 </div>
-                <p>Operations Excellence</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Customer Success</p>
                 </div>
-                <p>Customer Success</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Business Growth">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Business Growth</p>
                 </div>
-                <p>Business Growth</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Market Research">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Research</p>
                 </div>
-                <p>Market Research</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Process Optimization">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Process Optimization</p>
                 </div>
-                <p>Process Optimization</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operational Strategy">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operational Strategy</p>
                 </div>
-                <p>Operational Strategy</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Market Expansion">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Expansion</p>
                 </div>
-                <p>Market Expansion</p>
 
             </div>
 
+            <!-- Duplicate Copy -->
             <div class="marquee-content">
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Healthcare">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operations Excellence</p>
                 </div>
-                <p>Healthcare &amp; Health-Tech</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Technology">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Customer Success</p>
                 </div>
-                <p>Technology &amp; SaaS</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Business Support">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Business Growth</p>
                 </div>
-                <p>Business Support Services</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Execution">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Research</p>
                 </div>
-                <p>Execution-Focused Consulting</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Global Growth">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Process Optimization</p>
                 </div>
-                <p>Global Business Growth</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Operational Excellence">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Operational Strategy</p>
                 </div>
-                <p>Operational Excellence</p>
 
-                <div class="marquee-icon">
-                    <img src="assets/images/icon/marquee.png" alt="Customer Success">
+                <div class="marquee-item">
+                    <div class="marquee-icon">
+                        <img src="assets/images/icon/marquee.png" alt="">
+                    </div>
+                    <p>Market Expansion</p>
                 </div>
-                <p>Customer Success</p>
 
             </div>
 
@@ -906,151 +941,6 @@ ob_start();
     </section>
     <!-- faq section end -->
 
-    <!-- testimonials section start -->
-    <!-- <section class="testimonials-section-1 mlr">
-        <div class="testimonials-wrapper pb-100 pt-100 md-pb-80">
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center mb-30 wow fadeInUp" data-wow-delay=".2s">
-                            <span class="sub-title">Client Testimonials</span>
-                            <h2>What Our <span>Clients Say</span></h2>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-12">
-
-                        <div class="swiper testimonials-slider-three">
-
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonials-item right-after">
-                                        <div class="testimonials-meta">
-                                            <div class="testimonials-quote">
-                                                <i class="fa-solid fa-quote-left"></i>
-                                            </div>
-                                        </div>
-
-                                        <div class="testimonials-content">
-                                            <p>
-                                                Market Pionexa demonstrated a structured approach throughout
-                                                the engagement and helped streamline key operational
-                                                processes with practical execution support.
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonials-author-box">
-                                            <div class="testimonials-author">
-                                                <div class="testimonials-author-content">
-                                                    <h2>Healthcare Client</h2>
-                                                    <p>Operations Team</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonials-item right-after">
-                                        <div class="testimonials-meta">
-                                            <div class="testimonials-quote">
-                                                <i class="fa-solid fa-quote-left"></i>
-                                            </div>
-                                        </div>
-
-                                        <div class="testimonials-content">
-                                            <p>
-                                                Their collaborative approach and operational expertise
-                                                supported our business objectives while improving customer
-                                                success and execution across multiple initiatives.
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonials-author-box">
-                                            <div class="testimonials-author">
-                                                <div class="testimonials-author-content">
-                                                    <h2>Technology Client</h2>
-                                                    <p>SaaS Business</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonials-item right-after">
-                                        <div class="testimonials-meta">
-                                            <div class="testimonials-quote">
-                                                <i class="fa-solid fa-quote-left"></i>
-                                            </div>
-                                        </div>
-
-                                        <div class="testimonials-content">
-                                            <p>
-                                                Their execution-focused consulting helped improve internal
-                                                workflows and provided valuable guidance for sustainable
-                                                business growth and expansion planning.
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonials-author-box">
-                                            <div class="testimonials-author">
-                                                <div class="testimonials-author-content">
-                                                    <h2>Growth Business</h2>
-                                                    <p>Business Leadership</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonials-item right-after">
-                                        <div class="testimonials-meta">
-                                            <div class="testimonials-quote">
-                                                <i class="fa-solid fa-quote-left"></i>
-                                            </div>
-                                        </div>
-
-                                        <div class="testimonials-content">
-                                            <p>
-                                                We appreciated their disciplined execution, clear
-                                                communication, and practical recommendations that aligned
-                                                with our long-term operational priorities.
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonials-author-box">
-                                            <div class="testimonials-author">
-                                                <div class="testimonials-author-content">
-                                                    <h2>Business Partner</h2>
-                                                    <p>Executive Team</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <div class="swiper-actions ms-2 text-center">
-                                <div class="dot"></div>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section> -->
-    <!-- testimonials section end -->
-
     <!-- blog section start -->
     <section class="blog-section pt-100 md-pt-80 pb-70 md-pb-50">
         <div class="container">
@@ -1079,7 +969,6 @@ ob_start();
                         </div>
 
                         <div class="blog-grid-content">
-
                             <h2>
                                 <a href="javascript:void(0)">
                                     Operational Excellence for Business Growth

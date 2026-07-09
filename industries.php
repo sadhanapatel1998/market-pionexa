@@ -147,23 +147,23 @@ ob_start();
                             <div class="project-content">
                                 <h2>
                                     <a href="growth-market-expansion.php">
-                                        Financial Services
+                                        Fintech Services
                                     </a>
                                 </h2>
 
                                 <p class="desc">
-                                    We support financial institutions and fintech businesses through operational
-                                    excellence, market research, business consulting, remote workforce solutions,
-                                    and execution support that strengthens efficiency, compliance, and sustainable
-                                    business growth.
+                                    We empower fintech companies with strategic consulting, market intelligence, digital
+                                    transformation, regulatory support, remote workforce solutions, and execution
+                                    strategies that drive innovation, operational efficiency, and sustainable business
+                                    growth.
                                 </p>
 
                                 <div class="check-list mb-30">
                                     <ul>
-                                        <li>Business operations support</li>
-                                        <li>Market research & insights</li>
-                                        <li>Strategic business consulting</li>
-                                        <li>Execution & growth support</li>
+                                        <li>Fintech Strategy & Consulting</li>
+                                        <li>Digital Transformation Solutions</li>
+                                        <li>Regulatory & Compliance Support</li>
+                                        <li>Growth & Market Expansion</li>
                                     </ul>
                                 </div>
 

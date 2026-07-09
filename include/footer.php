@@ -32,7 +32,9 @@
                                             aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#" aria-label="twitter"><i class="fa-brands fa-x-twitter"></i></a>
+                                        <a href="#" target="_blank" aria-label="LinkedIn">
+                                            <i class="fa-brands fa-linkedin-in"></i>
+                                        </a>
                                     </li>
                                     <!-- <li>
                                         <a href="#" aria-label="pinterest"><i class="fa-brands fa-pinterest-p"></i></a>
@@ -41,7 +43,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-12">
+                    <div class="col-xl-9 col-lg-12">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="row">
@@ -78,7 +80,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 col-sm-6">
+                                    <div class="col-lg-5 col-sm-6">
                                         <div class="footer-widget footer-widget-services wow fadeInUp"
                                             data-wow-delay=".4s">
                                             <h3 class="footer-widget-title line-anime"> Services</h3>
@@ -86,28 +88,30 @@
                                                 <ul class="link">
                                                     <li><a href="dedicated-remote-teams.php"><i
                                                                 class="fa-solid fa-chevron-right"></i>Dedicated Remote
-                                                            Teams </a>
-                                                    </li>
+                                                            Teams</a></li>
                                                     <li><a href="business-operations.php"><i
                                                                 class="fa-solid fa-chevron-right"></i>Business
                                                             Operations</a></li>
                                                     <li><a href="market-research-business-intelligence.php"><i
-                                                                class="fa-solid fa-chevron-right"></i>Market
-                                                            Research & Business Intelligence</a></li>
+                                                                class="fa-solid fa-chevron-right"></i>Market Research
+                                                            & Business Intelligence</a></li>
                                                     <li><a href="strategic-business-consulting.php"><i
                                                                 class="fa-solid fa-chevron-right"></i>Strategic Business
                                                             Consulting</a></li>
-                                                    <!-- <li><a href="global-expansion-india-market-entry.php"><i
-                                                                class="fa-solid fa-chevron-right"></i>Global
-                                                            Expansion & India Market Entry</a></li> -->
-                                                    <!-- <li><a href="sales-operations.php"><i
+                                                    <li><a href="global-expansion-india-market-entry.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Global Expansion &
+                                                            India Market Entry</a></li>
+                                                    <li><a href="sales-operations.php"><i
                                                                 class="fa-solid fa-chevron-right"></i>Sales
-                                                            Operations</a></li> -->
+                                                            Operations</a></li>
+                                                    <li><a href="customer-success-workforce-support.php"><i
+                                                                class="fa-solid fa-chevron-right"></i>Customer Success &
+                                                            Workforce Support</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-5 col-sm-12">
+                                    <div class="col-lg-4 col-sm-12">
                                         <div class="footer-widget footer-widget-subscribe wow fadeInUp"
                                             data-wow-delay=".5s">
                                             <h4 class="footer-widget-title line-anime">Newsletter</h4>

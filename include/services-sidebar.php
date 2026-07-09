@@ -3,7 +3,7 @@
     <!-- Services -->
     <div class="widget widget-categories-list">
         <div class="widget-title">
-            <h3>Our Services</h3>
+            <h3 class="text-white">Our Services</h3>
         </div>
         <?php
         $current_page = basename($_SERVER['PHP_SELF']);
@@ -63,7 +63,7 @@
     <!-- CTA -->
     <div class="widget widget-cta">
         <div class="widget-title">
-            <h3>Need Business Support?</h3>
+            <h3 class="text-white">Need Business Support?</h3>
         </div>
 
         <div class="widget-content">
