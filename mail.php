@@ -55,11 +55,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Port = 587;
 
         $mail->setFrom(
-            'web.hoverbusinessservices@gmail.com',
+            'contact@marketpionexa.com',
             'Market Pionexa Consulting Pvt. Ltd.'
         );
         $mail->addAddress(
-            'web.hoverbusinessservices@gmail.com',
+            'contact@marketpionexa.com',
             'Market Pionexa Consulting Pvt. Ltd.'
         );
         $mail->isHTML(true);

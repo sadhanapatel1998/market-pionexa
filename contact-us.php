@@ -67,8 +67,15 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                                     <div class="contact-item">
                                         <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
                                         <div class="contact-content">
-                                            <p>Address</p>
-                                          <h3>New Delhi | Pune</h3>
+                                            <p>Address 1</p>
+                                            <h3>New Delhi, India</h3>
+                                        </div>
+                                    </div>
+                                    <div class="contact-item">
+                                        <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
+                                        <div class="contact-content">
+                                            <p>Address 2</p>
+                                            <h3>Pune, India</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -97,7 +104,7 @@ $old = isset($_SESSION['old']) ? $_SESSION['old'] : [];
                                         <h2>Feel free to write</h2>
                                     </div>
                                     <div class="default-form contact-form">
-                                        <form action="mail" method="POST" novalidate="novalidate">
+                                        <form action="mail.php" method="POST" novalidate="novalidate">
                                             <div class="row">
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class="form-group">
