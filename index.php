@@ -244,6 +244,10 @@ ob_start();
                                 <p>Build high-performing remote teams from India that seamlessly integrate into your
                                     business and support long-term operational growth.</p>
                             </div>
+                            <a href="dedicated-remote-teams.php" class="theme-button style-1" aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -261,6 +265,10 @@ ob_start();
                                 <p>Improve operational performance through efficient processes, structured workflows,
                                     and execution-focused business management solutions.</p>
                             </div>
+                            <a href="business-operations.php" class="theme-button style-1" aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -279,6 +287,11 @@ ob_start();
                                 <p>Gain valuable market insights through research, competitive intelligence, and
                                     data-driven analysis that supports strategic business decisions.</p>
                             </div>
+                            <a href="market-research-business-intelligence.php" class="theme-button style-1"
+                                aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -296,6 +309,11 @@ ob_start();
                                 <p>Develop practical business strategies that improve operational efficiency, strengthen
                                     execution, and create sustainable competitive advantage.</p>
                             </div>
+                            <a href="strategic-business-consulting.php" class="theme-button style-1"
+                                aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -314,6 +332,11 @@ ob_start();
                                 <p>Expand into India with confidence through market-entry planning, operational setup,
                                     and end-to-end business execution support.</p>
                             </div>
+                            <a href="global-expansion-india-market-entry.php" class="theme-button style-1"
+                                aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -331,6 +354,10 @@ ob_start();
                                 <p>Strengthen sales performance through structured operations, streamlined processes,
                                     performance tracking, and execution-driven business support.</p>
                             </div>
+                            <a href="sales-operations.php" class="theme-button style-1" aria-label="Learn More">
+                                <span data-text="Learn More">Learn More</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
                         </div>
                         <div class="services-image">
                             <figure>
@@ -559,7 +586,7 @@ ob_start();
                                 <p>Continuously improve performance to support sustainable business growth.</p>
                             </div>
                         </div>
-                        <div class="how-it-work-num">02</div>
+                        <div class="how-it-work-num">04</div>
                     </div>
                     <!-- how it work item start -->
                 </div>

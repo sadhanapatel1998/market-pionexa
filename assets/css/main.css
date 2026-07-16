@@ -8570,7 +8570,10 @@ button:focus {
   position: relative;
   border-radius: var(--border-radius-three);
 }
-
+.services-section .services-item .theme-button {
+      height: 45px; 
+      margin-top: 10px;
+}
 @media (max-width: 1199px) {
   .services-section .services-item {
     border-radius: 20px;
@@ -8608,6 +8611,7 @@ button:focus {
 .services-section .services-item .services-content h2 {
   font-size: 24px;
   margin-bottom: 20px;
+      min-height: 70px;
 }
 
 @media (max-width: 1399px) {
@@ -8619,6 +8623,17 @@ button:focus {
     margin-bottom: 0px;
     min-height: 180px;
   }
+}
+@media (max-width: 1299px) {
+.services-section .services-item .services-content h2 {
+    margin-bottom: 15px;
+    min-height: 61px;
+}
+}
+@media (max-width: 768px) {
+    .services-section .services-item .services-content h2 {
+        min-height: auto;
+    }
 }
 
 .services-section .services-item:hover {

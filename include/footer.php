@@ -32,7 +32,7 @@
                                             aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" aria-label="LinkedIn">
+                                        <a href="https://www.linkedin.com/company/market-pionexa/?viewAsMember=true" target="_blank" aria-label="LinkedIn">
                                             <i class="fa-brands fa-linkedin-in"></i>
                                         </a>
                                     </li>
